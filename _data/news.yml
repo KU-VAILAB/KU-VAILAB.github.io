@@ -1,21 +1,14 @@
-- date: 05/09/19
-  title: "Another great thing"
-  tags:
-    - some
-    - tags
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Eu turpis egestas pretium aenean. Luctus venenatis lectus magna fringilla
-    urna porttitor. Lorem ipsum dolor sit amet. Pellentesque massa placerat
-    duis ultricies. Commodo viverra maecenas accumsan lacus vel.
+- date: 12/02/26
+  title: "Jungbeom gave an invited talk at Samsung Advanced Institute of Technology (SAIT, 삼성종합과학기술원)"
 
-- date: 03/09/19
-  title: "Something great"
-  tags:
-    - some
-    - tags
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Eu turpis egestas pretium aenean. Luctus venenatis lectus magna fringilla
-    urna porttitor. Lorem ipsum dolor sit amet. Pellentesque massa placerat
-    duis ultricies. Commodo viverra maecenas accumsan lacus vel.
+- date: 11/02/26
+  title: "A paper on fine-tuning text-to-image generative model was accepted at WACV 2026"
+
+- date: 10/02/26
+  title: "A paper on subject-driven text-to-image generative model was posted on arXiv"
+
+- date: 09/02/26
+  title: "A paper on vision-language model was accepted at ICCV 2025"
+
+- date: 08/02/26
+  title: "A paper on large vision language model was accepted at NAACL 2024"
