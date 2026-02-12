@@ -41,7 +41,7 @@ def create_member_posts():
         image = str(row['사진 공개 링크']).strip()
         affiliation = str(row['현재 소속 (파트타임 분들만 부탁드립니다)']).strip()
 
-        category = "intern" if role == "intern" else "student"
+        category = "intern" if role.lower() == "intern" else "student"
 
         # Handle nan/empty values
         if website == 'nan' or not website:
@@ -51,7 +51,7 @@ def create_member_posts():
         if affiliation == 'nan' or not affiliation:
             affiliation = 'Korea University'
         else:
-            affiliation = f'Korea University & {affiliation}'
+            affiliation = f'Korea University, {affiliation}'
 
         # Format interest as a single list item (matching template)
         interest_str = f' - {interest}' if interest else ''

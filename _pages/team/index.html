@@ -73,7 +73,7 @@ permalink: /team/
                 <div class="card-body" style="display: flex; flex-direction: column; justify-content: space-evenly; height: 100%;">
                     <h4 style="margin: 0">{{ member.name }}</h4>
                     <div style="margin-bottom: 12px">
-                        <p style="margin: 0">{{ member.affiliation }}</p>
+                        <p style="margin: 0; text-align: left">{{ member.affiliation }}</p>
                         <small>{{ member.email }}</small>
                     </div>
                     <p style="text-align: left; margin: 0">{{ member.interest }}</p>
@@ -91,9 +91,9 @@ permalink: /team/
 
 <h2><a id="intern"></a>Interns</h2>
 {% assign members = site.posts | where: 'category', 'intern' | sort: 'date' %}
+<div style="margin-left: -15px; margin-right: -15px">
 {% for member in members %}
 <div class="card team-member-card">
-    <div class="row mt-3">
         <!-- <div class="col-md-2">
             <a href={{member.url}}>
                 <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.image }}"
@@ -102,7 +102,7 @@ permalink: /team/
             </a>
         </div> -->
 
-        <div class="col-md-10">
+        <div class="col-md-12">
             <div class="card-body">
                 <a href={{member.social.website}}>
                     <h4 class="card-title">{{ member.title }}</h4>
@@ -110,10 +110,11 @@ permalink: /team/
                 <p class="card-text">{{ member.interest }}</p>
             </div>
         </div>
-    </div>
-</div>
+        </div>
+
 
 {% endfor %}
+</div>
 
 
 <!-- Alumni -->
