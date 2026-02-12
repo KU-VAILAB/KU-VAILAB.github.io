@@ -32,6 +32,7 @@ def create_member_posts():
     # 9: 사진 공개 링크 -> image
 
     for _, row in df.iterrows():
+        timestamp = str(row['타임스탬프']).strip()
         name = str(row['이름']).strip().title()
         email = str(row['연구실 용 이메일']).strip()
         interest = str(row['Research Interest (최대한 선택지 안에서 골라달라고 하셨습니다)']).strip()
@@ -72,9 +73,14 @@ interest:
 """
 
         # Filename: YYYY-MM-DD-researcher-name.md
-        # Using today's date
+        # Use timestamp format: 2026. 2. 8 오후 2:33:01
+        ts_parts = timestamp.split(' ')
+        year = ts_parts[0].strip('.')
+        month = ts_parts[1].strip('.')
+        day = ts_parts[2].strip('.')
+        filename_date = f"{year}-{int(month):02d}-{int(day):02d}"
 
-        filename_date = date.today().isoformat()
+
         # Generate a short hash from email to avoid collisions
         email_hash = hashlib.md5(email.encode()).hexdigest()[:4]
         filename = f"{filename_date}-researcher-{slugify(name)}-{email_hash}.md"
