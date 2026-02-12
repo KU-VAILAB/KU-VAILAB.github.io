@@ -44,6 +44,8 @@ def create_member_posts():
         category = "intern" if role.lower() == "intern" else "student"
 
         # Handle nan/empty values
+        if email == 'nan' or not email:
+            email = ''
         if website == 'nan' or not website:
             website = ''
         if interest == 'nan' or not interest:

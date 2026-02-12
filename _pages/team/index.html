@@ -13,8 +13,8 @@ permalink: /team/
 <h2><a id="faculty"></a>Faculty</h2>
 {% assign members = site.posts | where: 'category', 'faculty' | sort: 'date' %}
 {% for member in members %}
-<div class="card" style="margin: 80px 0">
-    <div class="row mt-4" style="display: flex; justify-content: center;">
+<div class="card faculty-card" style="margin: 80px 0">
+    <div class="row mt-4 team-member-content" style="display: flex; justify-content: center; flex-wrap: wrap;">
         <div class="col-md-4" style="display: flex; justify-content: center;">
             <a href={{member.url}}>
                 <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.image }}"
@@ -32,7 +32,7 @@ permalink: /team/
                 <h4 class="card-title">Education</h4>
                 <ul class="mb-2">
                 {% for edu in member.education %}
-                    <li><small>{{ edu | markdownify | remove: '<p>' | remove: '</p>' }}</small></li>
+                    <li style="text-align: initial;"><small>{{ edu | markdownify | remove: '<p>' | remove: '</p>' }}</small></li>
                 {% endfor %}
                 </ul>
             </div>
@@ -42,7 +42,7 @@ permalink: /team/
                 <h4 class="card-title">Experiences</h4>
                 <ul>
                 {% for exp in member.experiences %}
-                    <li><small>{{ exp | markdownify | remove: '<p>' | remove: '</p>' }}</small></li>
+                    <li style="text-align: initial;"><small>{{ exp | markdownify | remove: '<p>' | remove: '</p>' }}</small></li>
                 {% endfor %}
                 </ul>
             </div>
@@ -57,10 +57,10 @@ permalink: /team/
 
 <h2><a id="student"></a>Graduate Students</h2>
 {% assign members = site.posts | where: 'category', 'student' | sort: 'role' | reverse %}
-<div style="width: 100%; margin: auto; display: grid; grid-template-columns: 1fr 1fr;">
+<div class="team-grid">
     {% for member in members %}
     <div class="card team-member-card">
-        <div class="mt-3" style="display: flex">
+        <div class="mt-3 team-member-content" style="display: flex">
             <div>
                 <a href={{member.social.website}}>
                     <img src="{{ member.image }}"
@@ -73,10 +73,10 @@ permalink: /team/
                 <div class="card-body" style="display: flex; flex-direction: column; justify-content: space-evenly; height: 100%;">
                     <h4 style="margin: 0">{{ member.name }}</h4>
                     <div style="margin-bottom: 12px">
-                        <p style="margin: 0; text-align: left">{{ member.affiliation }}</p>
+                        <p style="margin: 0">{{ member.affiliation }}</p>
                         <small>{{ member.email }}</small>
                     </div>
-                    <p style="text-align: left; margin: 0">{{ member.interest }}</p>
+                    <p style="margin: 0">{{ member.interest }}</p>
                 </div>
             </div>
         </div>
@@ -91,7 +91,7 @@ permalink: /team/
 
 <h2><a id="intern"></a>Interns</h2>
 {% assign members = site.posts | where: 'category', 'intern' | sort: 'date' %}
-<div style="margin-left: -15px; margin-right: -15px">
+<div class="team-grid">
 {% for member in members %}
 <div class="card team-member-card">
         <!-- <div class="col-md-2">
@@ -121,9 +121,10 @@ permalink: /team/
 
 <h2><a id="alumni"></a>Alumni</h2>
 {% assign members = site.posts | where: 'category', 'alumni' | sort: 'date' %}
+<div class="team-grid">
 {% for member in members %}
 <div class="card team-member-card">
-    <div class="row mt-3">
+    <div class="row mt-3 team-member-content">
         <!-- <div class="col-md-2">
             <a href={{member.url}}>
                 <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.image }}"
@@ -142,3 +143,4 @@ permalink: /team/
 </div>
 
 {% endfor %}
+</div>

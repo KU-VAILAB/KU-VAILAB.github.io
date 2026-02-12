@@ -38,10 +38,47 @@ figcaption {
   margin-right: 0 !important;
 }
 
+.team-grid {
+  width: 100%;
+  margin: auto;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+}
+
 .team-member-card {
-  display: inline-block;
+  display: flex;
+  flex-direction: column;
   margin-top: 20px;
   margin-bottom: 20px;
+}
+
+.card-body {
+  text-align: left
+}
+
+@media (max-width: 768px) {
+  .faculty-card {
+    margin: 40px 0 !important;
+  }
+
+  .team-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .team-member-content {
+    flex-direction: column !important;
+    align-items: center;
+    text-align: center;
+  }
+
+  .team-member-content div {
+    padding: 10px 0 !important;
+  }
+
+  .card-body {
+    text-align: center
+  }
 }
 
 .container-fluid {
