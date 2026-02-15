@@ -35,3 +35,12 @@ permalink: /research/
 
 
 <h2 style="margin-top: 48px;">Funding & Sponsors</h2>
+
+<div class="row" style="display: flex; flex-wrap: wrap; align-items: center;">
+{% for logo in site.data.fundings %}
+    <div class="col-xs-6 col-sm-3" style="margin: 15px 0">
+        <img src="{{ logo | relative_url }}" style="width: 100%; border-radius: 8px;">
+    </div>
+{% endfor %}
+</div>
+
