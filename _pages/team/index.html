@@ -32,7 +32,7 @@ permalink: /team/
                 <h4 class="card-title">Education</h4>
                 <ul class="mb-2">
                 {% for edu in member.education %}
-                    <li style="text-align: initial;"><small>{{ edu | markdownify | remove: '<p>' | remove: '</p>' }}</small></li>
+                    <li style="text-align: initial;  text-wrap: pretty;"><small>{{ edu | markdownify | remove: '<p>' | remove: '</p>' }}</small></li>
                 {% endfor %}
                 </ul>
             </div>
@@ -42,7 +42,7 @@ permalink: /team/
                 <h4 class="card-title">Experiences</h4>
                 <ul>
                 {% for exp in member.experiences %}
-                    <li style="text-align: initial;"><small>{{ exp | markdownify | remove: '<p>' | remove: '</p>' }}</small></li>
+                    <li style="text-align: initial;  text-wrap: pretty;"><small>{{ exp | markdownify | remove: '<p>' | remove: '</p>' }}</small></li>
                 {% endfor %}
                 </ul>
             </div>
@@ -102,12 +102,12 @@ permalink: /team/
             </a>
         </div> -->
 
-        <div class="col-md-12">
+        <div class="col-md-10">
             <div class="card-body">
                 <a href={{member.social.website}}>
                     <h4 class="card-title">{{ member.title }}</h4>
                 </a>
-                <p class="card-text">{{ member.interest }}</p>
+                <p class="card-text"><small>{{ member.email }}</small></p>
             </div>
         </div>
         </div>
@@ -124,7 +124,7 @@ permalink: /team/
 <div class="team-grid">
 {% for member in members %}
 <div class="card team-member-card">
-    <div class="row mt-3 team-member-content">
+
         <!-- <div class="col-md-2">
             <a href={{member.url}}>
                 <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.image }}"
@@ -136,10 +136,10 @@ permalink: /team/
         <div class="col-md-10">
             <div class="card-body">
             <h4 class="card-title">{{ member.title }}</h4>
-            <p class="card-text">{{ member.role }}</p>
+            <p class="card-text"><small>{{ member.affiliation }}</small></p>
             </div>
         </div>
-    </div>
+
 </div>
 
 {% endfor %}
