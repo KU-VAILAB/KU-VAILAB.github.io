@@ -1,19 +1,19 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/dcf3d5d0-a4a4-486f-bd9a-64b612392aad/deploy-status)](https://app.netlify.com/sites/brave-bell-c85a34/deploys)
-
-# Research lab website template
+# VAI Lab Website
 
 This website is built with [Jekyll](https://jekyllrb.com/).
-It is derived from the great template provided by the
-[Allan Lab](https://www.allanlab.org/aboutwebsite.html), at Leiden University.
+It is derived from the template provided by the [Allan Lab](https://www.allanlab.org/aboutwebsite.html) at Leiden University.
 
 ## Setup
+
+This repository is tested under `ruby 3.1.0`, `bundler 2.3.3`.
+If the setup crashes, remove `Gemfile.lock` and run the setup again.
 
 ``` bash
 brew install ruby
 gem install bundler jekyll
 ```
 
-Clone this repository, then install the dependencies:
+Then install the dependencies:
 
 ``` bash
 bundle install
@@ -27,103 +27,38 @@ Run the local webserver with:
 bundle exec jekyll serve
 ```
 
-## Contribute
+## Maintenance
 
-### Add a new member
+Most of the website data is managed through CSV files and Python scripts. The general workflow follows the pattern: **CSV File** ➔ **Python Script** ➔ **Generated Data**.
 
-New members are stored as markdown files under
-[_pages/team/_posts](_pages/team/_posts).
+All source files are stored on Google Drive and managed via Google Forms, which are accessible only via the shared VAI Google account. If you do not have the credentials, please contact the PI.
 
-Each new member `.md` file must look like this:
+Updates are automatically deployed to the website once changes are pushed to the `master` branch.
 
-``` yaml
----
-layout: member
-category: staff
-title: Researcher Name
-image: researcher.png
-role: Lab Director
-permalink: 'team/researcher-name'
-social:
-    twitter: https://twitter.com/
-    linkedin: https://www.linkedin.com/
-    google-scholar: https://scholar.google.fr/
-    github: https://github.com/
-    website:
-    orcid: https://orcid.org/
-    research-gate: https://www.researchgate.net/
-education:
- - Education
----
+### 1. Adding a Member
+Use this to update the current lab members (Students/Interns).
+Team Page uses each mardown file to render each member.
+- **Source**: `_data/members.csv`, exported from the Google Sheet: `VAI-Lab Homepage 용 인적사항 수합(응답)`. This sheet is linked to the Google Form: `VAI-Lab Homepage 용 인적사항 수합`.
+- **Action**: Add a new row to the CSV.
+- **Run**: `python3 scripts/generate_members.py`
+- **Result**: New Markdown files are generated in `_pages/team/_posts/`.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit
-esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
-```
+### 2. Adding Alumni
+Use this to update the lab alumni list.
+- **Source**: `_data/alumni.csv`, exported from the Google Sheet: `VAI 연락망`.
+- **Required Columns**: `영문 이름` (English Name) and `비고 (영문)` (Affiliation/Remarks in English).
+- **Run**: `python3 scripts/generate_alumni.py`
+- **Result**: Markdown files are generated in `_pages/team/_posts/` with `category: alumni`.
 
-### Add a new publication
+### 3. Adding Funding & Sponsors
+Update the logos shown on the Research page.
+- **Source**: Drop image files (PNG, JPG, etc.) into `images/research/Fundings/`.
+- **Run**: `python3 scripts/generate_fundings.py`
+- **Result**: Updates `_data/fundings.yml`, which the Research page uses to render the logo grid.
 
-Publications are stored as `.json` file under
-[_data/publications.json](_data/publications.json).
-This json file is exported from [Zotero](https://www.zotero.org/)
-bibliography tool.
-
-Just add a new entry to the list like this:
-
-``` json
-{
-  "id": "http://zotero.org/groups/2386072/items/NU9LTX7C",
-  "type": "article-journal",
-  "title": "Foo",
-  "container-title": "IEEE Transactions on Medical Imaging",
-  "page": "448-459",
-  "volume": "38",
-  "issue": "2",
-  "source": "IEEE Xplore",
-  "abstract": "Bar",
-  "DOI": "10.1109/TMI.2018.2865709",
-  "author": [
-    {
-      "family": "",
-      "given": ""
-    },
-  ],
-  "issued": {
-    "date-parts": [
-      [
-        "2019",
-        2
-      ]
-    ]
-  }
-}
-```
-
-### Add news
-
-News are stored as `.yml` file under [_data/news.yml](_data/news.yml).
-
-An entry looks like the following:
-
-```yaml
-- date: 03/09/19
-  title: "Something great"
-  tags:
-    - some
-    - tags
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    Eu turpis egestas pretium aenean. Luctus venenatis lectus magna fringilla
-    urna porttitor. Lorem ipsum dolor sit amet. Pellentesque massa placerat
-    duis ultricies. Commodo viverra maecenas accumsan lacus vel.
-```
-
-### Edit template
-
-We use [Bootstrap](https://getbootstrap.com/) for designing the website.
-Feel free to modify either the [_pages](_pages/) or the
-[_layouts](_layouts/) components.
+### 4. Adding Publications
+Use this to update the Publications page.
+- **Source**: `_data/raw_publications.csv`, exported from the Google Sheet: `VAI: 실적취합`.
+- **Format**: `Title,Authors,Conference,Link`. Use semicolons (`;`) to separate multiple authors.
+- **Run**: `python3 scripts/parse_publications.py`
+- **Result**: Converts the CSV to `_data/publications.json` (CSL-JSON format) for website display.
