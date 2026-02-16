@@ -1,7 +1,7 @@
 - title: "Autonomous Driving"
   assets:
     - /images/research/AD-1.gif
-    - /images/research/AD-2.gif
+    - /images/research/AD-2.mp4
   content: We develop explainable and reliable end-to-end autonomous systems that transcend the limits of simple imitation by integrating human-centric reasoning. Our research focuses on high-fidelity 3D occupancy prediction and multimodal sensor fusion to ensure safe navigation in dense, complex urban environments. By pioneering "advisable" learning, we empower vehicles to interpret high-level human guidance and provide transparent textual rationales for their driving decisions.
 
 - title: "Vision Language Action (VLA)"
