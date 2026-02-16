@@ -77,8 +77,9 @@ def convert_csv_to_json(csv_path, json_path):
 
 if __name__ == "__main__":
     # Define paths relative to the project root or absolute as requested
-    base_dir = "/Users/woosung/Desktop/KU/LabIntern/vai-lab-website"
-    csv_file = os.path.join(base_dir, "_data/publications.csv")
+    # Determine the project root (parent directory of the 'scripts' folder)
+    base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    csv_file = os.path.join(base_dir, "_data/raw_publications.csv")
     json_file = os.path.join(base_dir, "_data/publications.json")
 
     convert_csv_to_json(csv_file, json_file)

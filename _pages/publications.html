@@ -7,17 +7,10 @@ permalink: /publications/
 ---
 
 <h1>{{page.title}}</h1>
+<p>(* Equal Contribution, † Corresponding Authors)</p>
 
 <div class="panel-group" id="accordion">
     <div class="panel panel-default">
-
-    {% assign lab_members = "" | split: "/" %}
-    {% for member in site.data.members %}
-        {% assign m_name = member["이름"] | downcase | strip %}
-        {% assign lab_members = lab_members | push: m_name %}
-    {% endfor %}
-    {% assign lab_members = lab_members | push: "jungbeom lee" %}
-
     {% assign current_year = "" %}
     {% for publi in site.data.publications %}
         {% assign publi_year = publi.issued.date-parts[0][0] %}
@@ -38,10 +31,6 @@ permalink: /publications/
             {% assign authors = "" | split:"/" %}
             {% for author in publi.author %}
                 {% assign name = author.given | append: " " | append: author.family %}
-                {% assign name_dc = name | downcase | strip %}
-                {% if lab_members contains name_dc %}
-                    {% assign name = "<b>" | append: name | append: "</b>" %}
-                {% endif %}
                 {% assign authors = authors | push: name %}
             {% endfor %}
             <span style="font-size: 0.95em;">{{ authors | array_to_sentence_string }},</span>

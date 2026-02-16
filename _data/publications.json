@@ -23,7 +23,7 @@
                 "given": "Reza"
             },
             {
-                "family": "Kim",
+                "family": "Kim†",
                 "given": "Jinkyu"
             }
         ],
@@ -46,14 +46,14 @@
         "type": "paper-conference",
         "title": "Style-Friendly SNR Sampler for Style-Driven Generation",
         "container-title": "WACV 2026",
-        "URL": "https://pure.korea.ac.kr/",
+        "URL": "https://arxiv.org/abs/2411.14793",
         "author": [
             {
-                "family": "Choi",
+                "family": "Choi*",
                 "given": "Jooyoung"
             },
             {
-                "family": "Shin",
+                "family": "Shin*",
                 "given": "Chaehun"
             },
             {
@@ -61,7 +61,7 @@
                 "given": "Jungbeom"
             },
             {
-                "family": "Yoon",
+                "family": "Yoon†",
                 "given": "Sungroh"
             }
         ],
@@ -84,7 +84,7 @@
         "type": "paper-conference",
         "title": "Towards Failure-Resilient Lifelong Learning Agents through Scene Graph-Guided Proactive Replanning",
         "container-title": "AAMAS 2026",
-        "URL": "https://pure.korea.ac.kr/",
+        "URL": "https://arxiv.org/abs/2508.11286",
         "author": [
             {
                 "family": "Yu",
@@ -153,11 +153,11 @@
                 "given": "Sangwon"
             },
             {
-                "family": "Jung",
+                "family": "Jung†",
                 "given": "Dahuin"
             },
             {
-                "family": "Yoon",
+                "family": "Yoon†",
                 "given": "Sungroh"
             }
         ],
@@ -211,11 +211,11 @@
                 "given": "Junhee"
             },
             {
-                "family": "Park",
+                "family": "Park*",
                 "given": "Seunghyun"
             },
             {
-                "family": "Kim",
+                "family": "Kim*",
                 "given": "Jinkyu"
             }
         ],
@@ -241,11 +241,11 @@
         "URL": "https://arxiv.org/abs/2509.21938",
         "author": [
             {
-                "family": "Joung",
+                "family": "Joung*",
                 "given": "Woosung"
             },
             {
-                "family": "Chae",
+                "family": "Chae*",
                 "given": "Daewon"
             },
             {
@@ -275,19 +275,19 @@
         "URL": "https://arxiv.org/abs/2502.14070",
         "author": [
             {
-                "family": "Chae",
+                "family": "Chae*",
                 "given": "Daewon"
             },
             {
-                "family": "Choi",
+                "family": "Choi*",
                 "given": "June Suk"
             },
             {
-                "family": "Kim",
+                "family": "Kim†",
                 "given": "Jinkyu"
             },
             {
-                "family": "Lee",
+                "family": "Lee†",
                 "given": "Kimin"
             }
         ],
@@ -313,11 +313,11 @@
         "URL": "https://arxiv.org/abs/2503.15185",
         "author": [
             {
-                "family": "Oh",
+                "family": "Oh*",
                 "given": "Gyeongrok"
             },
             {
-                "family": "Kim",
+                "family": "Kim*",
                 "given": "Sungjune"
             },
             {
@@ -345,11 +345,11 @@
                 "given": "Sungjoon"
             },
             {
-                "family": "Jang",
+                "family": "Jang†",
                 "given": "Sujin"
             },
             {
-                "family": "Kim",
+                "family": "Kim†",
                 "given": "Sangpil"
             }
         ],

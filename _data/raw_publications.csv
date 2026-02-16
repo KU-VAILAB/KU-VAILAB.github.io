@@ -1,48 +1,48 @@
 Title,Authors,Conference,Link
-"Image-Guided Semantic Pseudo-LiDAR Point Generation for 3D Object Detection","Minseung Lee; Seokha Moon; Seung Joon Lee; Reza Mahjourian; Jinkyu Kim","WACV 2026","https://arxiv.org/abs/2409.14985"
-"Style-Friendly SNR Sampler for Style-Driven Generation","Jooyoung Choi; Chaehun Shin; Jungbeom Lee; Sungroh Yoon","WACV 2026","https://pure.korea.ac.kr/"
-"Towards Failure-Resilient Lifelong Learning Agents through Scene Graph-Guided Proactive Replanning","Che Rin Yu; Daewon Chae; Dabin Seo; Yoonha Jang; Sangwon Lee; Hyeongwoo Im; Jinkyu Kim","AAMAS 2026","https://pure.korea.ac.kr/"
-"Know ""No"" Better: A Data-Driven Approach for Enhancing Negation Awareness in CLIP","Junsung Park; Jungbeom Lee; Jongyoon Song; Sangwon Yu; Dahuin Jung; Sungroh Yoon","ICCV 2025","https://arxiv.org/abs/2501.10913"
-"Watermarking for Factuality: Guiding Vision-Language Models Toward Truth via Tri-layer Contrastive Decoding","Kyungryul Back; Seongbeom Park; Milim Kim; Mincheol Kwon; SangHyeok Lee; Hyunyoung Lee; Junhee Cho; Seunghyun Park; Jinkyu Kim","EMNLP 2025 (Findings)","https://arxiv.org/abs/2510.14304"
-"SemanticControl: A Training-free Approach for Handling Loosely Aligned Visual Conditions in ControlNet","Woosung Joung; Daewon Chae; Jinkyu Kim","BMVC 2025","https://arxiv.org/abs/2509.21938"
-"DiffExp: Efficient Exploration in Reward Fine-tuning for Text-to-Image Diffusion Models","Daewon Chae; June Suk Choi; Jinkyu Kim; Kimin Lee","AAAI 2025","https://arxiv.org/abs/2502.14070"
-"3D Occupancy Prediction with Low-Resolution Queries via Prototype-aware View Transformation","Gyeongrok Oh; Sungjune Kim; Heeju Ko; Hyung-gun Chi; Jinkyu Kim; Dongwook Lee; Daehyun Ji; Sungjoon Choi; Sujin Jang; Sangpil Kim","CVPR 2025","https://arxiv.org/abs/2503.15185"
-"GUIDE-CoT: Goal-driven and User-Informed Dynamic Estimation for Pedestrian Trajectory using Chain-of-Thought","Sungsik Kim; Seokha Moon; Seongbeom Park; Sunkyu Kim; Jinkyu Kim","AAMAS 2025","https://arxiv.org/abs/2503.06832"
-"ViTA-PAR: Visual and Textual Attribute Alignment with Attribute Prompting for Pedestrian Attribute Recognition","Minjeong Park; Hongbeen Park; Jinkyu Kim","ICIP 2025","https://arxiv.org/abs/2506.01411"
-"Hard-Negative Prototype-Based Regularization for Few-Shot Class-Incremental Learning","Seongbeom Park; Hyunju Yun; Daewon Chae; Sungyoon Kim; Suhong Moon; Minwoo Kang; Seunghyun Park; Jinkyu Kim","TMLR 2025","https://openreview.net/forum?id=xKn7O0vDaR"
-"Encoder-only Next Token Prediction","Ethan Ewer; Daewon Chae; Thomas Zeng; Jinkyu Kim; Kangwook Lee","TMLR 2025","https://arxiv.org/abs/2410.01600"
-"Fast and Precise Multimodal Spatiotemporal Calibration via Periodic-Activated 2D Gaussian Splatting","Hongbeen Park; Minjeong Park; Sunpil Kim; Jinkyu Kim; Jung Hyun Lee","ICCV 2025 (Workshop)","https://www.google.com/search?q=https://openreview.net/forum%3Fid%3DV2lR5C9-Gq"
-"Parameter-Efficient 12-Lead ECG Reconstruction from a Single Lead","J. Lee; Y. Yoo; J. Kim; D. Lim; G. Yang; C. Yoo","MICCAI 2025","https://pure.korea.ac.kr/en/publications/"
-"Fpanet: Frequency-based video demoireing using frame-level post alignment","Gyeongrok Oh; Sungjune Kim; Heon Gu; Sang Ho Yoon; Jinkyu Kim; Sangpil Kim","Neural Networks 2025","https://doi.org/10.1016/j.neunet.2024.107021"
-"Unified Domain Generalization and Adaptation for Multi-View 3D Object Detection","Gyusam Chang; Jiwon Lee; Donghyun Kim; Jinkyu Kim; Dongwook Lee; Daehyun Ji; Sujin Jang; Sangpil Kim","NeurIPS 2024","https://arxiv.org/abs/2410.22461"
-"Toward Interactive Regional Understanding in Vision-Large Language Models","Jungbeom Lee; Sanghyuk Chun; Sangdoo Yun","NAACL 2024","https://arxiv.org/abs/2403.18260"
-"VisionTrap: Vision-Augmented Trajectory Prediction Guided by Textual Descriptions","Seokha Moon; Hyunwoo Woo; Hongbeen Park; Hwanhee Jung; Hyung-gun Chi; Hyerin Lim; Sangpil Kim; Jinkyu Kim","ECCV 2024","https://scholar.google.com/"
-"Higher-order Relational Reasoning for Pedestrian Trajectory Prediction","Sungjune Kim; Hadam Baek; Seunggwan Lee; Hyung-gun Chi; Hyerin Lim; Jinkyu Kim; Sangpil Kim","CVPR 2024","https://scholar.google.com/"
-"Audio-guided implicit neural representation for local image stylization","Seung Hyun Lee; Chanyoung Kim; Wonmin Byeon; Sang Ho Yoon; Jinkyu Kim; Sangpil Kim","CVM 2024","https://arxiv.org/abs/2210.13404"
-"Robust sound-guided image manipulation","Seung Hyun Lee; Wonseok Roh; Wonmin Byeon; Sang Ho Yoon; Chanyoung Kim; Jinkyu Kim; Sangpil Kim","Neural Networks 2024","https://doi.org/10.1016/j.neunet.2024.106263"
-"CMDA: Cross-Modal and Domain Adversarial Adaptation for LiDAR-Based 3D Object Detection","Gyusam Chang; Wonseok Roh; Seokha Moon; Jinkyu Kim; Sangpil Kim","AAAI 2024","https://doi.org/10.1609/aaai.v38i2.27878"
-"InstructBooth: Instruction-following Personalized Text-to-Image Generation","Daewon Chae; Nokyung Park; Jinkyu Kim; Kimin Lee","ICML 2024 (Workshop)","https://daewon88.github.io/"
-"Improving Visual Prompt Tuning for Self-supervised Vision Transformers","Seungryong Yoo; Eunji Kim; Dahuin Jung; Jungbeom Lee; Sungroh Yoon","ICML 2023","https://proceedings.mlr.press/v202/yoo23a/yoo23a.pdf"
-"Weakly Supervised Referring Image Segmentation with Intra-Chunk and Inter-Chunk Consistency","Jungbeom Lee; Sungjin Lee; Jinseok Nam; Seunghak Yu; Sanghyuk Chun; Sangdoo Yun","ICCV 2023","https://www.researchgate.net/"
-"CloudNet: A LiDAR-based face anti-spoofing model that is robust against light variation","Yongrae Kim; Hyunmin Gwak; Jaehoon Oh; Minho Kang; Jinkyu Kim; Hyun Kwon; Sunghwan Kim","IEEE Access 2023","https://doi.org/10.1109/ACCESS.2023.3242654"
-"An Embedding-Dynamic Approach to Self-Supervised Learning","Suhong Moon; Domas Buracas; Seunghyun Park; Jinkyu Kim; John F. Canny","WACV 2023","https://www.google.com/search?q=https://openreview.net/forum%3Fid%3DV2lR5C9-Gq"
-"Anti-Adversarially Manipulated Attributions for Weakly Supervised Semantic Segmentation and Object Localization","Jungbeom Lee; Eunji Kim; Jisoo Mok; Sungroh Yoon","IEEE TPAMI 2022","https://arxiv.org/abs/2204.04890"
-"Weakly Supervised Semantic Segmentation using Out-of-Distribution Data","Jungbeom Lee; Seong Joon Oh; Sangdoo Yun; Junsuk Choe; Eunji Kim; Sungroh Yoon","CVPR 2022","https://arxiv.org/abs/2203.03860"
-"Perception Prioritized Training of Diffusion Models","Jooyoung Choi; Jungbeom Lee; Chaehun Shin; Sungwon Kim; Hyunwoo Kim; Sungroh Yoon","CVPR 2022","https://arxiv.org/abs/2204.00227"
-"Bridging the Gap between Classification and Localization for Weakly Supervised Object Localization","Eunji Kim; Siwon Kim; Jungbeom Lee; Hyunwoo Kim; Sungroh Yoon","CVPR 2022","https://arxiv.org/abs/2204.00220"
-"Ora3d: Overlap region aware multi-view 3d object detection","Wonseok Roh; Gyusam Chang; Seokha Moon; Giljoo Nam; Chanyoung Kim; Younghyun Kim; Jinkyu Kim; Sangpil Kim","BMVC 2022","https://arxiv.org/abs/2207.03150"
-"Stopnet: Scalable trajectory and occupancy prediction for urban autonomous driving","Jinkyu Kim; Reza Mahjourian; Scott M. Ettinger; Mayank Bansal; Brandyn Allen White; Benjamin Sapp; Dragomir Anguelov","ICRA 2022","https://arxiv.org/abs/2206.00991"
-"Occupancy flow fields for motion forecasting in autonomous driving","Reza Mahjourian; Jinkyu Kim; Yuning Chai; Mingxing Tan; Benjamin Sapp; Dragomir Anguelov","IEEE R&A Letters 2022","https://arxiv.org/abs/2203.03875"
-"Reducing Information Bottleneck for Weakly Supervised Semantic Segmentation","Jungbeom Lee; Jooyoung Choi; Jisoo Mok; Sungroh Yoon","NeurIPS 2021","https://arxiv.org/abs/2110.06530"
-"Toward Spatially Unbiased Generative Models","Jooyoung Choi; Jungbeom Lee; Yonghyun Jeong; Sungroh Yoon","ICCV 2021","https://arxiv.org/abs/2108.01285"
-"Anti-Adversarially Manipulated Attributions for Weakly and Semi-Supervised Semantic Segmentation","Jungbeom Lee; Eunji Kim; Sungroh Yoon","CVPR 2021","https://arxiv.org/abs/2103.08896"
-"BBAM: Bounding Box Attribution Map for Weakly Supervised Semantic and Instance Segmentation","Jungbeom Lee; Jihun Yi; Chaehun Shin; Sungroh Yoon","CVPR 2021","https://arxiv.org/abs/2103.08907"
-"Selfreg: Self-supervised contrastive regularization for domain generalization","Daehee Kim; Youngjun Cho; Kyounghun Lee; Jinkyu Kim","ICCV 2021","https://openaccess.thecvf.com/"
-"Advisable Learning for Self-Driving Vehicles by Internalizing Observation-to-Action Rules","Jinkyu Kim; Suhong Moon; Anna Rohrbach; Trevor Darrell; John Canny","CVPR 2020","https://openaccess.thecvf.com/"
-"Frame-to-Frame Aggregation of Active Regions in Web Videos for Weakly Supervised Semantic Segmentation","Jungbeom Lee; Eunji Kim; Sungmin Lee; Jangho Lee; Sungroh Yoon","ICCV 2019","https://arxiv.org/abs/1908.04501"
-"FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference","Jungbeom Lee; Eunji Kim; Sungmin Lee; Jangho Lee; Sungroh Yoon","CVPR 2019","https://arxiv.org/abs/1902.10421"
-"Grounding Human-to-Vehicle Advice for Self-driving Vehicles","Jinkyu Kim; Teruhisa Misu; Yi-Ting Chen; Ashish Tawari; John Canny","CVPR 2019","https://arxiv.org/abs/1911.06978"
-"Msnet: Mutual suppression network for disentangled video representations","Jungbeom Lee; Jangho Lee; Sungmin Lee; Sungroh Yoon","BMVC 2019","https://arxiv.org/abs/1804.04810"
-"Textual Explanations for Self-Driving Vehicles","Jinkyu Kim; Anna Rohrbach; Trevor Darrell; John Canny; Zeynep Akata","ECCV 2018","https://arxiv.org/abs/1807.11546"
-"Deep traffic light detection for self-driving cars from a large-scale dataset","Jinkyu Kim; Hyunggi Cho; Myung Hwangbo; Paul Youngwook Kwon","ITSC 2018","https://ieeexplore.ieee.org/"
-"Interpretable Learning for Self-driving Cars by Visualizing Causal Attention","Jinkyu Kim; John Canny","ICCV 2017","https://arxiv.org/abs/1703.10631"
+Image-Guided Semantic Pseudo-LiDAR Point Generation for 3D Object Detection,Minseung Lee; Seokha Moon; Seung Joon Lee; Reza Mahjourian; Jinkyu Kim†,WACV 2026,https://arxiv.org/abs/2409.14985
+Style-Friendly SNR Sampler for Style-Driven Generation,Jooyoung Choi*; Chaehun Shin*; Jungbeom Lee; Sungroh Yoon†,WACV 2026,https://arxiv.org/abs/2411.14793
+Towards Failure-Resilient Lifelong Learning Agents through Scene Graph-Guided Proactive Replanning,Che Rin Yu; Daewon Chae; Dabin Seo; Yoonha Jang; Sangwon Lee; Hyeongwoo Im; Jinkyu Kim,AAMAS 2026,https://arxiv.org/abs/2508.11286
+"Know ""No"" Better: A Data-Driven Approach for Enhancing Negation Awareness in CLIP",Junsung Park; Jungbeom Lee; Jongyoon Song; Sangwon Yu; Dahuin Jung†; Sungroh Yoon†,ICCV 2025,https://arxiv.org/abs/2501.10913
+Watermarking for Factuality: Guiding Vision-Language Models Toward Truth via Tri-layer Contrastive Decoding,Kyungryul Back; Seongbeom Park; Milim Kim; Mincheol Kwon; SangHyeok Lee; Hyunyoung Lee; Junhee Cho; Seunghyun Park*; Jinkyu Kim*,EMNLP 2025 (Findings),https://arxiv.org/abs/2510.14304
+SemanticControl: A Training-free Approach for Handling Loosely Aligned Visual Conditions in ControlNet,Woosung Joung*; Daewon Chae*; Jinkyu Kim,BMVC 2025,https://arxiv.org/abs/2509.21938
+DiffExp: Efficient Exploration in Reward Fine-tuning for Text-to-Image Diffusion Models,Daewon Chae*; June Suk Choi*; Jinkyu Kim†; Kimin Lee†,AAAI 2025,https://arxiv.org/abs/2502.14070
+3D Occupancy Prediction with Low-Resolution Queries via Prototype-aware View Transformation,Gyeongrok Oh*; Sungjune Kim*; Heeju Ko; Hyung-gun Chi; Jinkyu Kim; Dongwook Lee; Daehyun Ji; Sungjoon Choi; Sujin Jang†; Sangpil Kim†,CVPR 2025,https://arxiv.org/abs/2503.15185
+GUIDE-CoT: Goal-driven and User-Informed Dynamic Estimation for Pedestrian Trajectory using Chain-of-Thought,Sungsik Kim; Seokha Moon; Seongbeom Park; Sunkyu Kim; Jinkyu Kim,AAMAS 2025,https://arxiv.org/abs/2503.06832
+ViTA-PAR: Visual and Textual Attribute Alignment with Attribute Prompting for Pedestrian Attribute Recognition,Minjeong Park; Hongbeen Park; Jinkyu Kim,ICIP 2025,https://arxiv.org/abs/2506.01411
+Hard-Negative Prototype-Based Regularization for Few-Shot Class-Incremental Learning,Seongbeom Park; Hyunju Yun; Daewon Chae; Sungyoon Kim; Suhong Moon; Minwoo Kang; Seunghyun Park; Jinkyu Kim,TMLR 2025,https://openreview.net/forum?id=xKn7O0vDaR
+Encoder-only Next Token Prediction,Ethan Ewer; Daewon Chae; Thomas Zeng; Jinkyu Kim; Kangwook Lee,TMLR 2025,https://arxiv.org/abs/2410.01600
+Fast and Precise Multimodal Spatiotemporal Calibration via Periodic-Activated 2D Gaussian Splatting,Hongbeen Park; Minjeong Park; Sunpil Kim; Jinkyu Kim; Jung Hyun Lee,ICCV 2025 (Workshop),https://www.google.com/search?q=https://openreview.net/forum%3Fid%3DV2lR5C9-Gq
+Parameter-Efficient 12-Lead ECG Reconstruction from a Single Lead,J. Lee; Y. Yoo; J. Kim; D. Lim; G. Yang; C. Yoo,MICCAI 2025,https://pure.korea.ac.kr/en/publications/
+Fpanet: Frequency-based video demoireing using frame-level post alignment,Gyeongrok Oh; Sungjune Kim; Heon Gu; Sang Ho Yoon; Jinkyu Kim; Sangpil Kim,Neural Networks 2025,https://doi.org/10.1016/j.neunet.2024.107021
+Unified Domain Generalization and Adaptation for Multi-View 3D Object Detection,Gyusam Chang; Jiwon Lee; Donghyun Kim; Jinkyu Kim; Dongwook Lee; Daehyun Ji; Sujin Jang; Sangpil Kim,NeurIPS 2024,https://arxiv.org/abs/2410.22461
+Toward Interactive Regional Understanding in Vision-Large Language Models,Jungbeom Lee; Sanghyuk Chun; Sangdoo Yun,NAACL 2024,https://arxiv.org/abs/2403.18260
+VisionTrap: Vision-Augmented Trajectory Prediction Guided by Textual Descriptions,Seokha Moon; Hyunwoo Woo; Hongbeen Park; Hwanhee Jung; Hyung-gun Chi; Hyerin Lim; Sangpil Kim; Jinkyu Kim,ECCV 2024,https://scholar.google.com/
+Higher-order Relational Reasoning for Pedestrian Trajectory Prediction,Sungjune Kim; Hadam Baek; Seunggwan Lee; Hyung-gun Chi; Hyerin Lim; Jinkyu Kim; Sangpil Kim,CVPR 2024,https://scholar.google.com/
+Audio-guided implicit neural representation for local image stylization,Seung Hyun Lee; Chanyoung Kim; Wonmin Byeon; Sang Ho Yoon; Jinkyu Kim; Sangpil Kim,CVM 2024,https://arxiv.org/abs/2210.13404
+Robust sound-guided image manipulation,Seung Hyun Lee; Wonseok Roh; Wonmin Byeon; Sang Ho Yoon; Chanyoung Kim; Jinkyu Kim; Sangpil Kim,Neural Networks 2024,https://doi.org/10.1016/j.neunet.2024.106263
+CMDA: Cross-Modal and Domain Adversarial Adaptation for LiDAR-Based 3D Object Detection,Gyusam Chang; Wonseok Roh; Seokha Moon; Jinkyu Kim; Sangpil Kim,AAAI 2024,https://doi.org/10.1609/aaai.v38i2.27878
+InstructBooth: Instruction-following Personalized Text-to-Image Generation,Daewon Chae; Nokyung Park; Jinkyu Kim; Kimin Lee,ICML 2024 (Workshop),https://daewon88.github.io/
+Improving Visual Prompt Tuning for Self-supervised Vision Transformers,Seungryong Yoo; Eunji Kim; Dahuin Jung; Jungbeom Lee; Sungroh Yoon,ICML 2023,https://proceedings.mlr.press/v202/yoo23a/yoo23a.pdf
+Weakly Supervised Referring Image Segmentation with Intra-Chunk and Inter-Chunk Consistency,Jungbeom Lee; Sungjin Lee; Jinseok Nam; Seunghak Yu; Sanghyuk Chun; Sangdoo Yun,ICCV 2023,https://www.researchgate.net/
+CloudNet: A LiDAR-based face anti-spoofing model that is robust against light variation,Yongrae Kim; Hyunmin Gwak; Jaehoon Oh; Minho Kang; Jinkyu Kim; Hyun Kwon; Sunghwan Kim,IEEE Access 2023,https://doi.org/10.1109/ACCESS.2023.3242654
+An Embedding-Dynamic Approach to Self-Supervised Learning,Suhong Moon; Domas Buracas; Seunghyun Park; Jinkyu Kim; John F. Canny,WACV 2023,https://www.google.com/search?q=https://openreview.net/forum%3Fid%3DV2lR5C9-Gq
+Anti-Adversarially Manipulated Attributions for Weakly Supervised Semantic Segmentation and Object Localization,Jungbeom Lee; Eunji Kim; Jisoo Mok; Sungroh Yoon,IEEE TPAMI 2022,https://arxiv.org/abs/2204.04890
+Weakly Supervised Semantic Segmentation using Out-of-Distribution Data,Jungbeom Lee; Seong Joon Oh; Sangdoo Yun; Junsuk Choe; Eunji Kim; Sungroh Yoon,CVPR 2022,https://arxiv.org/abs/2203.03860
+Perception Prioritized Training of Diffusion Models,Jooyoung Choi; Jungbeom Lee; Chaehun Shin; Sungwon Kim; Hyunwoo Kim; Sungroh Yoon,CVPR 2022,https://arxiv.org/abs/2204.00227
+Bridging the Gap between Classification and Localization for Weakly Supervised Object Localization,Eunji Kim; Siwon Kim; Jungbeom Lee; Hyunwoo Kim; Sungroh Yoon,CVPR 2022,https://arxiv.org/abs/2204.00220
+Ora3d: Overlap region aware multi-view 3d object detection,Wonseok Roh; Gyusam Chang; Seokha Moon; Giljoo Nam; Chanyoung Kim; Younghyun Kim; Jinkyu Kim; Sangpil Kim,BMVC 2022,https://arxiv.org/abs/2207.03150
+Stopnet: Scalable trajectory and occupancy prediction for urban autonomous driving,Jinkyu Kim; Reza Mahjourian; Scott M. Ettinger; Mayank Bansal; Brandyn Allen White; Benjamin Sapp; Dragomir Anguelov,ICRA 2022,https://arxiv.org/abs/2206.00991
+Occupancy flow fields for motion forecasting in autonomous driving,Reza Mahjourian; Jinkyu Kim; Yuning Chai; Mingxing Tan; Benjamin Sapp; Dragomir Anguelov,IEEE R&A Letters 2022,https://arxiv.org/abs/2203.03875
+Reducing Information Bottleneck for Weakly Supervised Semantic Segmentation,Jungbeom Lee; Jooyoung Choi; Jisoo Mok; Sungroh Yoon,NeurIPS 2021,https://arxiv.org/abs/2110.06530
+Toward Spatially Unbiased Generative Models,Jooyoung Choi; Jungbeom Lee; Yonghyun Jeong; Sungroh Yoon,ICCV 2021,https://arxiv.org/abs/2108.01285
+Anti-Adversarially Manipulated Attributions for Weakly and Semi-Supervised Semantic Segmentation,Jungbeom Lee; Eunji Kim; Sungroh Yoon,CVPR 2021,https://arxiv.org/abs/2103.08896
+BBAM: Bounding Box Attribution Map for Weakly Supervised Semantic and Instance Segmentation,Jungbeom Lee; Jihun Yi; Chaehun Shin; Sungroh Yoon,CVPR 2021,https://arxiv.org/abs/2103.08907
+Selfreg: Self-supervised contrastive regularization for domain generalization,Daehee Kim; Youngjun Cho; Kyounghun Lee; Jinkyu Kim,ICCV 2021,https://openaccess.thecvf.com/
+Advisable Learning for Self-Driving Vehicles by Internalizing Observation-to-Action Rules,Jinkyu Kim; Suhong Moon; Anna Rohrbach; Trevor Darrell; John Canny,CVPR 2020,https://openaccess.thecvf.com/
+Frame-to-Frame Aggregation of Active Regions in Web Videos for Weakly Supervised Semantic Segmentation,Jungbeom Lee; Eunji Kim; Sungmin Lee; Jangho Lee; Sungroh Yoon,ICCV 2019,https://arxiv.org/abs/1908.04501
+FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference,Jungbeom Lee; Eunji Kim; Sungmin Lee; Jangho Lee; Sungroh Yoon,CVPR 2019,https://arxiv.org/abs/1902.10421
+Grounding Human-to-Vehicle Advice for Self-driving Vehicles,Jinkyu Kim; Teruhisa Misu; Yi-Ting Chen; Ashish Tawari; John Canny,CVPR 2019,https://arxiv.org/abs/1911.06978
+Msnet: Mutual suppression network for disentangled video representations,Jungbeom Lee; Jangho Lee; Sungmin Lee; Sungroh Yoon,BMVC 2019,https://arxiv.org/abs/1804.04810
+Textual Explanations for Self-Driving Vehicles,Jinkyu Kim; Anna Rohrbach; Trevor Darrell; John Canny; Zeynep Akata,ECCV 2018,https://arxiv.org/abs/1807.11546
+Deep traffic light detection for self-driving cars from a large-scale dataset,Jinkyu Kim; Hyunggi Cho; Myung Hwangbo; Paul Youngwook Kwon,ITSC 2018,https://ieeexplore.ieee.org/
+Interpretable Learning for Self-driving Cars by Visualizing Causal Attention,Jinkyu Kim; John Canny,ICCV 2017,https://arxiv.org/abs/1703.10631
