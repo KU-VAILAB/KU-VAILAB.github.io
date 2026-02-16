@@ -2,6 +2,13 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta property="og:url" content="https://visionai.korea.ac.kr">
+  <meta property="og:title" content="Vision & AI Lab">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/images/logo/korea-univ.png">
+  <meta property="og:description" content="Vision & AI Lab">
+
   <title>{{ site.title }} - {% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <link rel="stylesheet" href="{{ '/css/main.css' | prepend: site.baseurl | prepend: site.url}}">
