@@ -2,7 +2,7 @@ import os
 import yaml
 
 def generate_fundings_yaml():
-    base_path = '/Users/woosung/Desktop/KU/LabIntern/vai-lab-website'
+    base_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     fundings_dir = os.path.join(base_path, 'images/research/Fundings')
     output_file = os.path.join(base_path, '_data/fundings.yml')
 

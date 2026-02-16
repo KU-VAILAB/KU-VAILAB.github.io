@@ -11,8 +11,9 @@ def slugify(text):
     return text
 
 def create_member_posts():
-    csv_path = '/Users/woosung/Desktop/KU/LabIntern/vai-lab-website/_data/members.csv'
-    output_dir = '/Users/woosung/Desktop/KU/LabIntern/vai-lab-website/_pages/team/_posts'
+    base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    csv_path = os.path.join(base_dir, '_data/members.csv')
+    output_dir = os.path.join(base_dir, '_pages/team/_posts')
 
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)

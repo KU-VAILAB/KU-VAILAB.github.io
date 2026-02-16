@@ -1,7 +1,7 @@
 ---
 layout: member
 category: alumni
-name: Hyeji Jeong
-title: Hyeji Jeong
+name: Haeji Jung
+title: Haeji Jung
 affiliation: Ph.D. Student at UBC
 ---

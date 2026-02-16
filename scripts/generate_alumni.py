@@ -15,35 +15,9 @@ def slugify(text):
 
 def create_alumni_posts():
     # Define absolute paths
-    base_path = '/Users/woosung/Desktop/KU/LabIntern/vai-lab-website'
+    base_path = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
     csv_path = os.path.join(base_path, '_data/alumni.csv')
     output_dir = os.path.join(base_path, '_pages/team/_posts')
-
-    # Name translation mapping
-    name_map = {
-        "정혜지": "Hyeji Jeong",
-        "박노경": "Nokyung Park",
-        "정유진": "Yujin Jeong",
-        "박성범": "Sungbeom Park",
-        "장민철": "Mincheol Chang",
-        "우현": "Hyun Woo",
-        "윤현주": "Hyunjoo Yoon",
-        "채대원": "Daewon Chae",
-        "박홍빈": "Hongbeen Park",
-        "서다빈": "Dabin Seo",
-        "박민정": "Minjeong Park"
-    }
-
-    # "비고" translation mapping
-    affiliation_map = {
-        "UBC 박사 유학": "Ph.D. Student at UBC",
-        "네이버 입사": "Naver",
-        "독일 박사 유학": "Ph.D. Student in TU-Darmstadt",
-        "LG CNS": "LG CNS",
-        "미시간 박사": "Ph.D. Student at University of Michigan",
-        "펜실베니아 박사": "Ph.D. Student at University of Pennsylvania",
-        "TBD": ""
-    }
 
     # Ensure output directory exists and cleanup old alumni files
     if not os.path.exists(output_dir):
@@ -67,19 +41,13 @@ def create_alumni_posts():
         print(f"Error reading CSV: {e}")
         return
 
-    # Use today's date for the filename prefix
-    today_str = date.today().strftime('%Y-%m-%d')
-
     for _, row in df.iterrows():
-        korean_name = str(row['이름']).strip()
-        name = name_map.get(korean_name, korean_name)
+        name = str(row['영문 이름']).strip().title()
 
         # Use "비고" for affiliation and translate
-        remark = str(row['비고']).strip()
+        remark = str(row['비고 (영문)']).strip()
         if remark.lower() == 'nan' or not remark:
-            affiliation = ''
-        else:
-            affiliation = affiliation_map.get(remark, remark)
+            remark = ''
 
         # Prepare the frontmatter
         content = f"""---
@@ -87,15 +55,17 @@ layout: member
 category: alumni
 name: {name}
 title: {name}
-affiliation: {affiliation}
+affiliation: {remark}
 ---
 """
 
         # Generate a unique filename: YYYY-MM-DD-researcher-slugifiedname-hash.md
+        timestamp = '2026-02-12'
+
         # Using name for hash as email might be empty for some alumni.
         name_hash = hashlib.md5(name.encode()).hexdigest()[:4]
         slug_name = slugify(name)
-        filename = f"{today_str}-researcher-{slug_name}-{name_hash}.md"
+        filename = f"{timestamp}-researcher-{slug_name}-{name_hash}.md"
         file_path = os.path.join(output_dir, filename)
 
         # Write the file

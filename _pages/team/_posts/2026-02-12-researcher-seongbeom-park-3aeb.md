@@ -1,7 +1,7 @@
 ---
 layout: member
 category: alumni
-name: Hyunjoo Yoon
-title: Hyunjoo Yoon
+name: Seongbeom Park
+title: Seongbeom Park
 affiliation: 
 ---

@@ -1,12 +1,12 @@
-이름,연락처,이메일,학번,연구주제,태어난 연도,입학년도,졸업연도,신분,비고
-정혜지,,gpwl0709@korea.ac.kr,,,1997,2021.09,2024.08,석사 졸,UBC 박사 유학
-박노경,010-4055-0786,nokyung.park99@navercorp.com,2022020894,,1999,2022.03,2024.02,석사 졸,네이버 입사
-정유진,010-6899-6923,yujin.jeong@tu-darmstadt.de,,,1997,2022.03,2024.02,석사 졸,독일 박사 유학
-박성범,010-9001-5385,chu7zpah@gmail.com,2022020896,"AI Ethics, FSCIL, VLM",1997,2022.03,2024.02,석사 졸,TBD
-장민철,,,,,1998,2022.09,2024.08,석사 졸,LG CNS
-우현,,,,,1993,2022.09,2024.08,석사 졸,
-윤현주,010-5264-6111,soda5874@korea.ac.kr,2022021601,,1998.03.10,2022.09,2025.02,석사 졸,
-채대원,010-2418-0594,cdw098@korea.ac.kr,2023020948,,1998.08.08,2023.03,2025.08,석사 졸,미시간 박사
-박홍빈,010-5233-9278,qkrghdqls1@korea.ac.kr,2023021697,,2000.10.09,2023.09,2025.08,석사 졸,펜실베니아 박사
-서다빈,010-4075-2297,sodabeans230@gmail.com,2023021698,,1999.10.27,2023.09,2025.08,석사 졸,LG CNS
-박민정,010-7171-3441,mjminjeongpark@gmail.com,,,1997.08.20,2024.08,2025.08,석사 졸,펜실베니아 박사
+이름,영문 이름,연락처,이메일,학번,연구주제,태어난 연도,입학년도,졸업연도,신분,비고,비고 (영문)
+정혜지,Haeji Jung,010-9996-7812,haejij@student.ubc.ca,2021011226,,1997,2021.09,2024.08,석사 졸,UBC 박사 유학,Ph.D. Student at UBC
+박노경,Nokyung Park,010-4055-0786,nokyung.park99@navercorp.com,2022020894,,1999,2022.03,2024.02,석사 졸,네이버 입사,Naver
+정유진,Yujin Jeong,010-6899-6923,yujin.jeong@tu-darmstadt.de,,,1997,2022.03,2024.02,석사 졸,독일 박사 유학,Ph.D. Student at TU-Darmstadt
+박성범,Seongbeom Park,010-9001-5385,chu7zpah@gmail.com,2022020896,"AI Ethics, FSCIL, VLM",1997,2022.03,2024.02,석사 졸,,
+장민철,Mincheol Chang,010-9393-0797,m1ncheoree@korea.ac.kr,2022021588,,1998.05.22,2022.09,2024.08,석사 졸,LG CNS,LG CNS
+우현,Hyun Woo,,,,,1993,2022.09,2024.08,석사 졸,,
+윤현주,Hyunju Yun,010-5264-6111,soda5874@korea.ac.kr,2022021601,,1998.03.10,2022.09,2025.02,석사 졸,,
+채대원,Daewon Chae,010-2418-0594,cdw098@korea.ac.kr,2023020948,,1998.08.08,2023.03,2025.08,석사 졸,미시간 박사,Ph.D. Student at University of Michigan
+박홍빈,Hongbeen Park,010-5233-9278,qkrghdqls1@korea.ac.kr,2023021697,,2000.10.09,2023.09,2025.08,석사 졸,펜실베니아 박사,Ph.D. Student at Pennsylvania State University
+서다빈,Dabin Seo,010-4075-2297,sodabeans230@gmail.com,2023021698,,1999.10.27,2023.09,2025.08,석사 졸,LG CNS,LG CNS
+박민정,Minjeong Park,010-7171-3441,mjminjeongpark@gmail.com,,,1997.08.20,2024.08,2025.08,석사 졸,펜실베니아 박사,Ph.D. Student at Pennsylvania State University
