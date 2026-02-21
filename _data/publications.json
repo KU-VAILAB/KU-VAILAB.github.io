@@ -2,6 +2,82 @@
     {
         "id": "paper_1",
         "type": "paper-conference",
+        "title": "FlowFixer: Towards Detail-Preserving Subject-Driven Generation",
+        "container-title": "CVPR 2026",
+        "URL": "",
+        "author": [
+            {
+                "family": "Jun",
+                "given": "Jinyoung"
+            },
+            {
+                "family": "Jang",
+                "given": "Won-Dong"
+            },
+            {
+                "family": "Ouyang",
+                "given": "Wenbin"
+            },
+            {
+                "family": "Gadde",
+                "given": "Raghudeep"
+            },
+            {
+                "family": "Lee",
+                "given": "Jungbeom"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2026"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_1",
+        "type": "paper-conference",
+        "title": "Focus, Don’t Prune: Identifying Instruction-Relevant Regions for Information-Rich Image Understanding",
+        "container-title": "CVPR 2026",
+        "URL": "",
+        "author": [
+            {
+                "family": "Kwon",
+                "given": "Mincheol"
+            },
+            {
+                "family": "Park",
+                "given": "Seunghyun"
+            },
+            {
+                "family": "Kim",
+                "given": "Jinkyu"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2026"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_1",
+        "type": "paper-conference",
         "title": "Image-Guided Semantic Pseudo-LiDAR Point Generation for 3D Object Detection",
         "container-title": "WACV 2026",
         "URL": "https://arxiv.org/abs/2409.14985",
