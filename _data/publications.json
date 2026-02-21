@@ -76,6 +76,44 @@
         }
     },
     {
+        "id": "paper_2",
+        "type": "paper-conference",
+        "title": "Style-Friendly SNR Sampler for Style-Driven Generation",
+        "container-title": "WACV 2026",
+        "URL": "https://arxiv.org/abs/2411.14793",
+        "author": [
+            {
+                "family": "Choi*",
+                "given": "Jooyoung"
+            },
+            {
+                "family": "Shin*",
+                "given": "Chaehun"
+            },
+            {
+                "family": "Lee",
+                "given": "Jungbeom"
+            },
+            {
+                "family": "Yoon†",
+                "given": "Sungroh"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2026"
+                ]
+            ]
+        }
+    },
+    {
         "id": "paper_1",
         "type": "paper-conference",
         "title": "Image-Guided Semantic Pseudo-LiDAR Point Generation for 3D Object Detection",
@@ -101,44 +139,6 @@
             {
                 "family": "Kim†",
                 "given": "Jinkyu"
-            }
-        ],
-        "page": "",
-        "volume": "",
-        "issue": "",
-        "source": "",
-        "abstract": "",
-        "DOI": "",
-        "issued": {
-            "date-parts": [
-                [
-                    "2026"
-                ]
-            ]
-        }
-    },
-    {
-        "id": "paper_2",
-        "type": "paper-conference",
-        "title": "Style-Friendly SNR Sampler for Style-Driven Generation",
-        "container-title": "WACV 2026",
-        "URL": "https://arxiv.org/abs/2411.14793",
-        "author": [
-            {
-                "family": "Choi*",
-                "given": "Jooyoung"
-            },
-            {
-                "family": "Shin*",
-                "given": "Chaehun"
-            },
-            {
-                "family": "Lee",
-                "given": "Jungbeom"
-            },
-            {
-                "family": "Yoon†",
-                "given": "Sungroh"
             }
         ],
         "page": "",
