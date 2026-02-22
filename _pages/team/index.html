@@ -15,10 +15,10 @@ permalink: /team/
 {% for member in members %}
 <div class="card faculty-card" style="margin: 80px 0">
     <div class="row mt-4 team-member-content" style="display: flex; justify-content: center; flex-wrap: wrap;">
-        <div class="col-md-4" style="display: flex; justify-content: center;">
+        <div class="col-md-4" style="display: flex; justify-content: center; height:    fit-content">
             <img src="{{ site.url }}{{ site.baseurl }}/images/team/{{ member.image }}"
                 class="card-img img-responsive img-thumbnail"
-                style="max-width: 200px"/>
+                style="max-width: 200px; object-fit: cover; aspect-ratio: 1/1; object-position: center;"/>
         </div>
 
         <div class="col-md-6">
