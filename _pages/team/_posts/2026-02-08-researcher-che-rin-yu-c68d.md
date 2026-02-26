@@ -10,5 +10,5 @@ affiliation: Korea University
 social:
     website: 
 interest:
- - Navigation, VLM, Agentic AI, World Models, VLN
+ - Navigation, Agentic AI, World Models
 ---
