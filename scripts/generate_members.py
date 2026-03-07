@@ -41,6 +41,8 @@ def create_member_posts():
         website = str(row['개인 웹사이트']).strip()
         image = str(row['사진 공개 링크']).strip()
         affiliation = str(row['현재 소속 (파트타임 분들만 부탁드립니다)']).strip()
+        major = str(row['전공 (영문으로 적어주세요.)']).strip()
+        school = str(row['학교 (영문으로 적어주세요.)']).strip()
 
         category = "student"
         if role.lower() == "intern":
@@ -55,6 +57,10 @@ def create_member_posts():
             website = ''
         if interest == 'nan' or not interest:
             interest = ''
+        if major == 'nan' or not major:
+            major = ''
+        if school == 'nan' or not school:
+            school = ''
         if affiliation == 'nan' or not affiliation:
             affiliation = 'Korea University'
         elif category != 'alumni':
@@ -72,6 +78,8 @@ email: {email}
 image: {image}
 role: {role}
 affiliation: {affiliation}
+major: {major}
+school: {school}
 social:
     website: {website}
 interest:

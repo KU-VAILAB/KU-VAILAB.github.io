@@ -7,6 +7,8 @@ email:
 image: https://drive.google.com/thumbnail?id=1gJD1OGtJSFzmB4rvaoVy3Tg8ScisNHqc&sz=w1000
 role: Ph.D.
 affiliation: Korea University, Amazon Web Services
+major: 
+school: 
 social:
     website: https://github.com/daekeun-ml
 interest:

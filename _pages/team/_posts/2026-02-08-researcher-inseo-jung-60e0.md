@@ -7,6 +7,8 @@ email: inseo_jung@korea.ac.kr
 image: https://drive.google.com/thumbnail?id=1W6MbEB8FcTleSymfiKj7hMk_7lLUviEW&sz=w1000
 role: Ph.D.
 affiliation: Korea University
+major: 
+school: 
 social:
     website: 
 interest:

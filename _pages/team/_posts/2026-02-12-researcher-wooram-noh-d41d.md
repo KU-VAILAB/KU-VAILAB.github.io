@@ -7,6 +7,8 @@ email:
 image: https://drive.google.com/thumbnail?id=1jqtcLqsqmbIeOtwPa8ebBE43dFGjMyMc&sz=w1000
 role: Ph.D.
 affiliation: Korea University, F&F Partners
+major: 
+school: 
 social:
     website: 
 interest:
