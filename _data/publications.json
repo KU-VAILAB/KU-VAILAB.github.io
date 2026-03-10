@@ -103,6 +103,40 @@
             ]
         }
     },
+        {
+        "id": "paper_4",
+        "type": "paper-conference",
+        "title": "MambaEye: A Size-Agnostic Visual Encoder with Causal Sequential Processing",
+        "container-title": "CVPR 2026 (Findings)",
+        "URL": "https://arxiv.org/abs/2511.19963",
+        "author": [
+            {
+                "family": "Choi",
+                "given": "Changho"
+            },
+            {
+                "family": "Kim",
+                "given": "Minho"
+            },
+            {
+                "family": "Kim",
+                "given": "Jinkyu"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2026"
+                ]
+            ]
+        }
+    },
     {
         "id": "paper_3",
         "type": "paper-conference",
@@ -125,40 +159,6 @@
             {
                 "family": "Mahjourian",
                 "given": "Reza"
-            },
-            {
-                "family": "Kim",
-                "given": "Jinkyu"
-            }
-        ],
-        "page": "",
-        "volume": "",
-        "issue": "",
-        "source": "",
-        "abstract": "",
-        "DOI": "",
-        "issued": {
-            "date-parts": [
-                [
-                    "2026"
-                ]
-            ]
-        }
-    },
-    {
-        "id": "paper_4",
-        "type": "paper-conference",
-        "title": "MambaEye: A Size-Agnostic Visual Encoder with Causal Sequential Processing",
-        "container-title": "CVPR 2026 (Findings)",
-        "URL": "https://arxiv.org/abs/2511.19963",
-        "author": [
-            {
-                "family": "Choi",
-                "given": "Changho"
-            },
-            {
-                "family": "Kim",
-                "given": "Minho"
             },
             {
                 "family": "Kim",
