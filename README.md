@@ -57,8 +57,9 @@ Update the logos shown on the Research page.
 - **Result**: Updates `_data/fundings.yml`, which the Research page uses to render the logo grid.
 
 ### 4. Adding Publications
-Use this to update the Publications page.
+Use this to update the Publications page. You should use the parsing python script, because it sorts the parsed csv rows before converting into json format.
 - **Source**: `_data/raw_publications.csv`, exported from the Google Sheet: `VAI: 실적취합`.
 - **Format**: `Title,Authors,Conference,Link`. Use semicolons (`;`) to separate multiple authors.
 - **Run**: `python3 scripts/parse_publications.py`
 - **Result**: Converts the CSV to `_data/publications.json` (CSL-JSON format) for website display.
+

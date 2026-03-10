@@ -42,7 +42,7 @@
         }
     },
     {
-        "id": "paper_1",
+        "id": "paper_2",
         "type": "paper-conference",
         "title": "Focus, Don’t Prune: Identifying Instruction-Relevant Regions for Information-Rich Image Understanding",
         "container-title": "CVPR 2026",
@@ -58,11 +58,11 @@
             },
             {
                 "family": "Choi",
-                "given": "Miso"
+                "given": "Seonga"
             },
             {
                 "family": "Choi",
-                "given": "Seonga"
+                "given": "Miso"
             },
             {
                 "family": "Oh",
@@ -81,88 +81,8 @@
                 "given": "Yongho"
             },
             {
-                "family": "Park",
+                "family": "Park†",
                 "given": "Seunghyun"
-            },
-            {
-                "family": "Kim",
-                "given": "Jinkyu"
-            }
-        ],
-        "page": "",
-        "volume": "",
-        "issue": "",
-        "source": "",
-        "abstract": "",
-        "DOI": "",
-        "issued": {
-            "date-parts": [
-                [
-                    "2026"
-                ]
-            ]
-        }
-    },
-    {
-        "id": "paper_2",
-        "type": "paper-conference",
-        "title": "Style-Friendly SNR Sampler for Style-Driven Generation",
-        "container-title": "WACV 2026",
-        "URL": "https://arxiv.org/abs/2411.14793",
-        "author": [
-            {
-                "family": "Choi*",
-                "given": "Jooyoung"
-            },
-            {
-                "family": "Shin*",
-                "given": "Chaehun"
-            },
-            {
-                "family": "Lee",
-                "given": "Jungbeom"
-            },
-            {
-                "family": "Yoon†",
-                "given": "Sungroh"
-            }
-        ],
-        "page": "",
-        "volume": "",
-        "issue": "",
-        "source": "",
-        "abstract": "",
-        "DOI": "",
-        "issued": {
-            "date-parts": [
-                [
-                    "2026"
-                ]
-            ]
-        }
-    },
-    {
-        "id": "paper_1",
-        "type": "paper-conference",
-        "title": "Image-Guided Semantic Pseudo-LiDAR Point Generation for 3D Object Detection",
-        "container-title": "WACV 2026",
-        "URL": "https://arxiv.org/abs/2409.14985",
-        "author": [
-            {
-                "family": "Lee",
-                "given": "Minseung"
-            },
-            {
-                "family": "Moon",
-                "given": "Seokha"
-            },
-            {
-                "family": "Lee",
-                "given": "Seung Joon"
-            },
-            {
-                "family": "Mahjourian",
-                "given": "Reza"
             },
             {
                 "family": "Kim†",
@@ -186,8 +106,130 @@
     {
         "id": "paper_3",
         "type": "paper-conference",
+        "title": "Image-Guided Semantic Pseudo-LiDAR Point Generation for 3D Object Detection",
+        "container-title": "WACV 2026",
+        "URL": "https://arxiv.org/abs/2409.14985",
+        "author": [
+            {
+                "family": "Lee",
+                "given": "Minseung"
+            },
+            {
+                "family": "Moon",
+                "given": "Seokha"
+            },
+            {
+                "family": "Lee",
+                "given": "Seung Joon"
+            },
+            {
+                "family": "Mahjourian",
+                "given": "Reza"
+            },
+            {
+                "family": "Kim",
+                "given": "Jinkyu"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2026"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_4",
+        "type": "paper-conference",
+        "title": "MambaEye: A Size-Agnostic Visual Encoder with Causal Sequential Processing",
+        "container-title": "CVPR 2026 (Findings)",
+        "URL": "https://arxiv.org/abs/2511.19963",
+        "author": [
+            {
+                "family": "Choi",
+                "given": "Changho"
+            },
+            {
+                "family": "Kim",
+                "given": "Minho"
+            },
+            {
+                "family": "Kim",
+                "given": "Jinkyu"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2026"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_5",
+        "type": "paper-conference",
+        "title": "Style-Friendly SNR Sampler for Style-Driven Generation",
+        "container-title": "WACV 2026",
+        "URL": "https://openaccess.thecvf.com/content/WACV2026/papers/Choi_Style-Friendly_SNR_Sampler_for_Style-Driven_Generation_WACV_2026_paper.pdf",
+        "author": [
+            {
+                "family": "Choi*",
+                "given": "Jooyoung"
+            },
+            {
+                "family": "Shin*",
+                "given": "Chaehun"
+            },
+            {
+                "family": "Oh",
+                "given": "Yeongtak"
+            },
+            {
+                "family": "Kim",
+                "given": "Heeseung"
+            },
+            {
+                "family": "Lee†",
+                "given": "Jungbeom"
+            },
+            {
+                "family": "Yoon†",
+                "given": "Sungroh"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2026"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_6",
+        "type": "paper-conference",
         "title": "Towards Failure-Resilient Lifelong Learning Agents through Scene Graph-Guided Proactive Replanning",
-        "container-title": "AAMAS 2026",
+        "container-title": "AAMAS 2026 (Oral)",
         "URL": "https://arxiv.org/abs/2508.11286",
         "author": [
             {
@@ -201,10 +243,6 @@
             {
                 "family": "Seo",
                 "given": "Dabin"
-            },
-            {
-                "family": "Jang",
-                "given": "Yoonha"
             },
             {
                 "family": "Lee",
@@ -234,183 +272,7 @@
         }
     },
     {
-        "id": "paper_4",
-        "type": "paper-conference",
-        "title": "Know \"No\" Better: A Data-Driven Approach for Enhancing Negation Awareness in CLIP",
-        "container-title": "ICCV 2025",
-        "URL": "https://arxiv.org/abs/2501.10913",
-        "author": [
-            {
-                "family": "Park",
-                "given": "Junsung"
-            },
-            {
-                "family": "Lee",
-                "given": "Jungbeom"
-            },
-            {
-                "family": "Song",
-                "given": "Jongyoon"
-            },
-            {
-                "family": "Yu",
-                "given": "Sangwon"
-            },
-            {
-                "family": "Jung†",
-                "given": "Dahuin"
-            },
-            {
-                "family": "Yoon†",
-                "given": "Sungroh"
-            }
-        ],
-        "page": "",
-        "volume": "",
-        "issue": "",
-        "source": "",
-        "abstract": "",
-        "DOI": "",
-        "issued": {
-            "date-parts": [
-                [
-                    "2025"
-                ]
-            ]
-        }
-    },
-    {
-        "id": "paper_5",
-        "type": "paper-conference",
-        "title": "Watermarking for Factuality: Guiding Vision-Language Models Toward Truth via Tri-layer Contrastive Decoding",
-        "container-title": "EMNLP 2025 (Findings)",
-        "URL": "https://arxiv.org/abs/2510.14304",
-        "author": [
-            {
-                "family": "Back",
-                "given": "Kyungryul"
-            },
-            {
-                "family": "Park",
-                "given": "Seongbeom"
-            },
-            {
-                "family": "Kim",
-                "given": "Milim"
-            },
-            {
-                "family": "Kwon",
-                "given": "Mincheol"
-            },
-            {
-                "family": "Lee",
-                "given": "SangHyeok"
-            },
-            {
-                "family": "Lee",
-                "given": "Hyunyoung"
-            },
-            {
-                "family": "Cho",
-                "given": "Junhee"
-            },
-            {
-                "family": "Park*",
-                "given": "Seunghyun"
-            },
-            {
-                "family": "Kim*",
-                "given": "Jinkyu"
-            }
-        ],
-        "page": "",
-        "volume": "",
-        "issue": "",
-        "source": "",
-        "abstract": "",
-        "DOI": "",
-        "issued": {
-            "date-parts": [
-                [
-                    "2025"
-                ]
-            ]
-        }
-    },
-    {
-        "id": "paper_6",
-        "type": "paper-conference",
-        "title": "SemanticControl: A Training-free Approach for Handling Loosely Aligned Visual Conditions in ControlNet",
-        "container-title": "BMVC 2025",
-        "URL": "https://arxiv.org/abs/2509.21938",
-        "author": [
-            {
-                "family": "Joung*",
-                "given": "Woosung"
-            },
-            {
-                "family": "Chae*",
-                "given": "Daewon"
-            },
-            {
-                "family": "Kim",
-                "given": "Jinkyu"
-            }
-        ],
-        "page": "",
-        "volume": "",
-        "issue": "",
-        "source": "",
-        "abstract": "",
-        "DOI": "",
-        "issued": {
-            "date-parts": [
-                [
-                    "2025"
-                ]
-            ]
-        }
-    },
-    {
         "id": "paper_7",
-        "type": "paper-conference",
-        "title": "DiffExp: Efficient Exploration in Reward Fine-tuning for Text-to-Image Diffusion Models",
-        "container-title": "AAAI 2025 (Oral)",
-        "URL": "https://arxiv.org/abs/2502.14070",
-        "author": [
-            {
-                "family": "Chae*",
-                "given": "Daewon"
-            },
-            {
-                "family": "Choi*",
-                "given": "June Suk"
-            },
-            {
-                "family": "Kim†",
-                "given": "Jinkyu"
-            },
-            {
-                "family": "Lee†",
-                "given": "Kimin"
-            }
-        ],
-        "page": "",
-        "volume": "",
-        "issue": "",
-        "source": "",
-        "abstract": "",
-        "DOI": "",
-        "issued": {
-            "date-parts": [
-                [
-                    "2025"
-                ]
-            ]
-        }
-    },
-    {
-        "id": "paper_8",
         "type": "paper-conference",
         "title": "3D Occupancy Prediction with Low-Resolution Queries via Prototype-aware View Transformation",
         "container-title": "CVPR 2025",
@@ -472,119 +334,27 @@
         }
     },
     {
-        "id": "paper_9",
+        "id": "paper_8",
         "type": "paper-conference",
-        "title": "GUIDE-CoT: Goal-driven and User-Informed Dynamic Estimation for Pedestrian Trajectory using Chain-of-Thought",
-        "container-title": "AAMAS 2025",
-        "URL": "https://arxiv.org/abs/2503.06832",
+        "title": "DiffExp: Efficient Exploration in Reward Fine-tuning for Text-to-Image Diffusion Models",
+        "container-title": "AAAI 2025 (Oral)",
+        "URL": "https://arxiv.org/abs/2502.14070",
         "author": [
             {
-                "family": "Kim",
-                "given": "Sungsik"
-            },
-            {
-                "family": "Moon",
-                "given": "Seokha"
-            },
-            {
-                "family": "Park",
-                "given": "Seongbeom"
-            },
-            {
-                "family": "Kim",
-                "given": "Sunkyu"
-            },
-            {
-                "family": "Kim",
-                "given": "Jinkyu"
-            }
-        ],
-        "page": "",
-        "volume": "",
-        "issue": "",
-        "source": "",
-        "abstract": "",
-        "DOI": "",
-        "issued": {
-            "date-parts": [
-                [
-                    "2025"
-                ]
-            ]
-        }
-    },
-    {
-        "id": "paper_10",
-        "type": "paper-conference",
-        "title": "ViTA-PAR: Visual and Textual Attribute Alignment with Attribute Prompting for Pedestrian Attribute Recognition",
-        "container-title": "ICIP 2025",
-        "URL": "https://arxiv.org/abs/2506.01411",
-        "author": [
-            {
-                "family": "Park",
-                "given": "Minjeong"
-            },
-            {
-                "family": "Park",
-                "given": "Hongbeen"
-            },
-            {
-                "family": "Kim",
-                "given": "Jinkyu"
-            }
-        ],
-        "page": "",
-        "volume": "",
-        "issue": "",
-        "source": "",
-        "abstract": "",
-        "DOI": "",
-        "issued": {
-            "date-parts": [
-                [
-                    "2025"
-                ]
-            ]
-        }
-    },
-    {
-        "id": "paper_11",
-        "type": "paper-conference",
-        "title": "Hard-Negative Prototype-Based Regularization for Few-Shot Class-Incremental Learning",
-        "container-title": "TMLR 2025",
-        "URL": "https://openreview.net/forum?id=xKn7O0vDaR",
-        "author": [
-            {
-                "family": "Park",
-                "given": "Seongbeom"
-            },
-            {
-                "family": "Yun",
-                "given": "Hyunju"
-            },
-            {
-                "family": "Chae",
+                "family": "Chae*",
                 "given": "Daewon"
             },
             {
-                "family": "Kim",
-                "given": "Sungyoon"
+                "family": "Choi*",
+                "given": "June Suk"
             },
             {
-                "family": "Moon",
-                "given": "Suhong"
-            },
-            {
-                "family": "Kang",
-                "given": "Minwoo"
-            },
-            {
-                "family": "Park",
-                "given": "Seunghyun"
-            },
-            {
-                "family": "Kim",
+                "family": "Kim†",
                 "given": "Jinkyu"
+            },
+            {
+                "family": "Lee†",
+                "given": "Kimin"
             }
         ],
         "page": "",
@@ -602,22 +372,22 @@
         }
     },
     {
-        "id": "paper_12",
+        "id": "paper_9",
         "type": "paper-conference",
         "title": "Encoder-only Next Token Prediction",
         "container-title": "TMLR 2025",
         "URL": "https://arxiv.org/abs/2410.01600",
         "author": [
             {
-                "family": "Ewer",
+                "family": "Ewer*",
                 "given": "Ethan"
             },
             {
-                "family": "Chae",
+                "family": "Chae*",
                 "given": "Daewon"
             },
             {
-                "family": "Zeng",
+                "family": "Zeng*",
                 "given": "Thomas"
             },
             {
@@ -644,18 +414,18 @@
         }
     },
     {
-        "id": "paper_13",
+        "id": "paper_10",
         "type": "paper-conference",
         "title": "Fast and Precise Multimodal Spatiotemporal Calibration via Periodic-Activated 2D Gaussian Splatting",
         "container-title": "ICCV 2025 (Workshop)",
-        "URL": "https://www.google.com/search?q=https://openreview.net/forum%3Fid%3DV2lR5C9-Gq",
+        "URL": "https://openreview.net/forum?id=Gx4GXvh2y9",
         "author": [
             {
-                "family": "Park",
+                "family": "Park*",
                 "given": "Hongbeen"
             },
             {
-                "family": "Park",
+                "family": "Park*",
                 "given": "Minjeong"
             },
             {
@@ -686,35 +456,173 @@
         }
     },
     {
-        "id": "paper_14",
+        "id": "paper_11",
         "type": "paper-conference",
-        "title": "Parameter-Efficient 12-Lead ECG Reconstruction from a Single Lead",
-        "container-title": "MICCAI 2025",
-        "URL": "https://pure.korea.ac.kr/en/publications/",
+        "title": "Fpanet: Frequency-based video demoireing using frame-level post alignment",
+        "container-title": "NN 2025",
+        "URL": "https://www.sciencedirect.com/science/article/abs/pii/S089360802400950X",
         "author": [
             {
-                "family": "Lee",
-                "given": "J."
-            },
-            {
-                "family": "Yoo",
-                "given": "Y."
+                "family": "Oh",
+                "given": "Gyeongrok"
             },
             {
                 "family": "Kim",
-                "given": "J."
+                "given": "Sungjune"
             },
             {
-                "family": "Lim",
-                "given": "D."
+                "family": "Gu",
+                "given": "Heon"
             },
             {
-                "family": "Yang",
-                "given": "G."
+                "family": "Yoon",
+                "given": "Sang Ho"
             },
             {
-                "family": "Yoo",
-                "given": "C."
+                "family": "Kim†",
+                "given": "Jinkyu"
+            },
+            {
+                "family": "Kim†",
+                "given": "Sangpil"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2025"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_12",
+        "type": "paper-conference",
+        "title": "GUIDE-CoT: Goal-driven and user-informed dynamic estimation for pedestrian trajectory using chain-of-thought",
+        "container-title": "AAMAS 2025",
+        "URL": "https://arxiv.org/abs/2503.06832",
+        "author": [
+            {
+                "family": "Kim",
+                "given": "Sungsik"
+            },
+            {
+                "family": "Baek",
+                "given": "Janghyun"
+            },
+            {
+                "family": "Kim",
+                "given": "Jinkyu"
+            },
+            {
+                "family": "Lee",
+                "given": "Jaekoo"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2025"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_13",
+        "type": "paper-conference",
+        "title": "Hard-Negative Prototype-Based Regularization for Few-Shot Class-Incremental Learning",
+        "container-title": "TMLR 2025",
+        "URL": "https://openreview.net/forum?id=xKn7O0vDaR",
+        "author": [
+            {
+                "family": "Park",
+                "given": "Seongbeom"
+            },
+            {
+                "family": "Yun",
+                "given": "Hyunju"
+            },
+            {
+                "family": "Chae",
+                "given": "Daewon"
+            },
+            {
+                "family": "Kim",
+                "given": "Sungyoon"
+            },
+            {
+                "family": "Moon",
+                "given": "Suhong"
+            },
+            {
+                "family": "Kang",
+                "given": "Minwoo"
+            },
+            {
+                "family": "Park†",
+                "given": "Seunghyun"
+            },
+            {
+                "family": "Kim†",
+                "given": "Jinkyu"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2025"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_14",
+        "type": "paper-conference",
+        "title": "Know \"No\" Better: A Data-Driven Approach for Enhancing Negation Awareness in CLIP",
+        "container-title": "ICCV 2025",
+        "URL": "https://openaccess.thecvf.com/content/ICCV2025/papers/Park_Know_No_Better_A_Data-Driven_Approach_for_Enhancing_Negation_Awareness_ICCV_2025_paper.pdf",
+        "author": [
+            {
+                "family": "Park",
+                "given": "Junsung"
+            },
+            {
+                "family": "Lee",
+                "given": "Jungbeom"
+            },
+            {
+                "family": "Song",
+                "given": "Jongyoon"
+            },
+            {
+                "family": "Yu",
+                "given": "Sangwon"
+            },
+            {
+                "family": "Jung",
+                "given": "Dahuin"
+            },
+            {
+                "family": "Yoon",
+                "given": "Sungroh"
             }
         ],
         "page": "",
@@ -734,33 +642,33 @@
     {
         "id": "paper_15",
         "type": "paper-conference",
-        "title": "Fpanet: Frequency-based video demoireing using frame-level post alignment",
-        "container-title": "Neural Networks 2025",
-        "URL": "https://doi.org/10.1016/j.neunet.2024.107021",
+        "title": "Parameter-Efficient 12-Lead ECG Reconstruction from a Single Lead",
+        "container-title": "MICCAI 2025",
+        "URL": "https://papers.miccai.org/miccai-2025/0665-Paper1826.html",
         "author": [
             {
-                "family": "Oh",
-                "given": "Gyeongrok"
+                "family": "Lee",
+                "given": "Junseok"
             },
             {
-                "family": "Kim",
-                "given": "Sungjune"
-            },
-            {
-                "family": "Gu",
-                "given": "Heon"
-            },
-            {
-                "family": "Yoon",
-                "given": "Sang Ho"
+                "family": "Yoo",
+                "given": "Yeonho"
             },
             {
                 "family": "Kim",
                 "given": "Jinkyu"
             },
             {
-                "family": "Kim",
-                "given": "Sangpil"
+                "family": "Lim",
+                "given": "Dosun"
+            },
+            {
+                "family": "Yang",
+                "given": "Gyeongsik"
+            },
+            {
+                "family": "Yoo",
+                "given": "Chuck"
             }
         ],
         "page": "",
@@ -780,41 +688,41 @@
     {
         "id": "paper_16",
         "type": "paper-conference",
-        "title": "Unified Domain Generalization and Adaptation for Multi-View 3D Object Detection",
-        "container-title": "NeurIPS 2024",
-        "URL": "https://arxiv.org/abs/2410.22461",
+        "title": "Querying Labeled Time Series Data with Scenario Programs",
+        "container-title": "NFM 2025",
+        "URL": "https://arxiv.org/abs/2511.10627",
         "author": [
             {
-                "family": "Chang",
-                "given": "Gyusam"
+                "family": "Kim*",
+                "given": "Edward"
             },
             {
-                "family": "Lee",
-                "given": "Jiwon"
+                "family": "Shanker*",
+                "given": "Devan"
             },
             {
-                "family": "Kim",
-                "given": "Donghyun"
+                "family": "Bharadwaj",
+                "given": "Varun"
+            },
+            {
+                "family": "Park",
+                "given": "Hongbeen"
             },
             {
                 "family": "Kim",
                 "given": "Jinkyu"
             },
             {
-                "family": "Lee",
-                "given": "Dongwook"
+                "family": "Torfah",
+                "given": "Hazem"
             },
             {
-                "family": "Ji",
-                "given": "Daehyun"
+                "family": "Fremont",
+                "given": "Daniel"
             },
             {
-                "family": "Jang",
-                "given": "Sujin"
-            },
-            {
-                "family": "Kim",
-                "given": "Sangpil"
+                "family": "Seshia",
+                "given": "Sanjit"
             }
         ],
         "page": "",
@@ -826,7 +734,7 @@
         "issued": {
             "date-parts": [
                 [
-                    "2024"
+                    "2025"
                 ]
             ]
         }
@@ -834,21 +742,37 @@
     {
         "id": "paper_17",
         "type": "paper-conference",
-        "title": "Toward Interactive Regional Understanding in Vision-Large Language Models",
-        "container-title": "NAACL 2024",
-        "URL": "https://arxiv.org/abs/2403.18260",
+        "title": "Scene Graph-Guided Proactive Replanning for Failure-Resilient Embodied Agents",
+        "container-title": "RSS 2025",
+        "URL": "https://semrob.github.io/docs/2025_rss_semrob.github.io_paper14.pdf",
         "author": [
             {
+                "family": "Yu",
+                "given": "Che Rin"
+            },
+            {
+                "family": "Chae",
+                "given": "Daewon"
+            },
+            {
+                "family": "Seo",
+                "given": "Dabin"
+            },
+            {
+                "family": "Jang",
+                "given": "Yoonha"
+            },
+            {
                 "family": "Lee",
-                "given": "Jungbeom"
+                "given": "Sangwon"
             },
             {
-                "family": "Chun",
-                "given": "Sanghyuk"
+                "family": "Im",
+                "given": "Hyeongwoo"
             },
             {
-                "family": "Yun",
-                "given": "Sangdoo"
+                "family": "Kim",
+                "given": "Jinkyu"
             }
         ],
         "page": "",
@@ -860,7 +784,7 @@
         "issued": {
             "date-parts": [
                 [
-                    "2024"
+                    "2025"
                 ]
             ]
         }
@@ -868,37 +792,17 @@
     {
         "id": "paper_18",
         "type": "paper-conference",
-        "title": "VisionTrap: Vision-Augmented Trajectory Prediction Guided by Textual Descriptions",
-        "container-title": "ECCV 2024",
-        "URL": "https://scholar.google.com/",
+        "title": "SemanticControl: A Training-free Approach for Handling Loosely Aligned Visual Conditions in ControlNet",
+        "container-title": "BMVC 2025",
+        "URL": "https://arxiv.org/abs/2509.21938",
         "author": [
             {
-                "family": "Moon",
-                "given": "Seokha"
+                "family": "Joung*",
+                "given": "Woosung"
             },
             {
-                "family": "Woo",
-                "given": "Hyunwoo"
-            },
-            {
-                "family": "Park",
-                "given": "Hongbeen"
-            },
-            {
-                "family": "Jung",
-                "given": "Hwanhee"
-            },
-            {
-                "family": "Chi",
-                "given": "Hyung-gun"
-            },
-            {
-                "family": "Lim",
-                "given": "Hyerin"
-            },
-            {
-                "family": "Kim",
-                "given": "Sangpil"
+                "family": "Chae*",
+                "given": "Daewon"
             },
             {
                 "family": "Kim",
@@ -914,7 +818,7 @@
         "issued": {
             "date-parts": [
                 [
-                    "2024"
+                    "2025"
                 ]
             ]
         }
@@ -922,37 +826,21 @@
     {
         "id": "paper_19",
         "type": "paper-conference",
-        "title": "Higher-order Relational Reasoning for Pedestrian Trajectory Prediction",
-        "container-title": "CVPR 2024",
-        "URL": "https://scholar.google.com/",
+        "title": "ViTA-PAR: Visual and Textual Attribute Alignment with Attribute Prompting for Pedestrian Attribute Recognition",
+        "container-title": "ICIP 2025 (Oral)",
+        "URL": "https://arxiv.org/abs/2506.01411",
         "author": [
             {
-                "family": "Kim",
-                "given": "Sungjune"
+                "family": "Park",
+                "given": "Minjeong"
             },
             {
-                "family": "Baek",
-                "given": "Hadam"
-            },
-            {
-                "family": "Lee",
-                "given": "Seunggwan"
-            },
-            {
-                "family": "Chi",
-                "given": "Hyung-gun"
-            },
-            {
-                "family": "Lim",
-                "given": "Hyerin"
+                "family": "Park",
+                "given": "Hongbeen"
             },
             {
                 "family": "Kim",
                 "given": "Jinkyu"
-            },
-            {
-                "family": "Kim",
-                "given": "Sangpil"
             }
         ],
         "page": "",
@@ -964,7 +852,7 @@
         "issued": {
             "date-parts": [
                 [
-                    "2024"
+                    "2025"
                 ]
             ]
         }
@@ -972,33 +860,45 @@
     {
         "id": "paper_20",
         "type": "paper-conference",
-        "title": "Audio-guided implicit neural representation for local image stylization",
-        "container-title": "CVM 2024",
-        "URL": "https://arxiv.org/abs/2210.13404",
+        "title": "Watermarking for Factuality: Guiding Vision-Language Models Toward Truth via Tri-layer Contrastive Decoding",
+        "container-title": "EMNLP 2025 (Findings)",
+        "URL": "https://arxiv.org/pdf/2510.14304",
         "author": [
             {
-                "family": "Lee",
-                "given": "Seung Hyun"
+                "family": "Back",
+                "given": "Kyungryul"
+            },
+            {
+                "family": "Park",
+                "given": "Seongbeom"
             },
             {
                 "family": "Kim",
-                "given": "Chanyoung"
+                "given": "Milim"
             },
             {
-                "family": "Byeon",
-                "given": "Wonmin"
+                "family": "Kwon",
+                "given": "Mincheol"
             },
             {
-                "family": "Yoon",
-                "given": "Sang Ho"
+                "family": "Lee",
+                "given": "SangHyeok"
+            },
+            {
+                "family": "Lee",
+                "given": "Hyunyoung"
+            },
+            {
+                "family": "Cho",
+                "given": "Junhee"
+            },
+            {
+                "family": "Park",
+                "given": "Seunghyun"
             },
             {
                 "family": "Kim",
                 "given": "Jinkyu"
-            },
-            {
-                "family": "Kim",
-                "given": "Sangpil"
             }
         ],
         "page": "",
@@ -1010,7 +910,7 @@
         "issued": {
             "date-parts": [
                 [
-                    "2024"
+                    "2025"
                 ]
             ]
         }
@@ -1018,37 +918,33 @@
     {
         "id": "paper_21",
         "type": "paper-conference",
-        "title": "Robust sound-guided image manipulation",
-        "container-title": "Neural Networks 2024",
-        "URL": "https://doi.org/10.1016/j.neunet.2024.106263",
+        "title": "Advancing Cross-Domain Generalizability in Face Anti-Spoofing: Insights, Design, and Metrics",
+        "container-title": "CVPR 2024 (Workshop)",
+        "URL": "https://arxiv.org/abs/2406.12258",
         "author": [
             {
-                "family": "Lee",
-                "given": "Seung Hyun"
+                "family": "Kim*",
+                "given": "Hyojin"
             },
             {
-                "family": "Roh",
-                "given": "Wonseok"
+                "family": "Lee*",
+                "given": "Jiyoon"
             },
             {
-                "family": "Byeon",
-                "given": "Wonmin"
+                "family": "Jeong",
+                "given": "Yonghyun"
             },
             {
-                "family": "Yoon",
-                "given": "Sang Ho"
+                "family": "Jang",
+                "given": "Heeyoung"
             },
             {
-                "family": "Kim",
-                "given": "Chanyoung"
-            },
-            {
-                "family": "Kim",
+                "family": "Kim†",
                 "given": "Jinkyu"
             },
             {
-                "family": "Kim",
-                "given": "Sangpil"
+                "family": "Yoo†",
+                "given": "Jae-Young"
             }
         ],
         "page": "",
@@ -1068,21 +964,41 @@
     {
         "id": "paper_22",
         "type": "paper-conference",
-        "title": "CMDA: Cross-Modal and Domain Adversarial Adaptation for LiDAR-Based 3D Object Detection",
-        "container-title": "AAAI 2024",
-        "URL": "https://doi.org/10.1609/aaai.v38i2.27878",
+        "title": "Audio-guided implicit neural representation for local image stylization",
+        "container-title": "CVM 2024",
+        "URL": "https://ieeexplore.ieee.org/abstract/document/10884998/",
         "author": [
             {
-                "family": "Chang",
-                "given": "Gyusam"
+                "family": "Lee*",
+                "given": "Seung Hyun"
             },
             {
-                "family": "Roh",
-                "given": "Wonseok"
+                "family": "Kim*",
+                "given": "Sieun"
             },
             {
-                "family": "Moon",
-                "given": "Seokha"
+                "family": "Byeon",
+                "given": "Wonmin"
+            },
+            {
+                "family": "Oh",
+                "given": "Gyeongrok"
+            },
+            {
+                "family": "In",
+                "given": "Sumin"
+            },
+            {
+                "family": "Park",
+                "given": "Hyeongcheol"
+            },
+            {
+                "family": "Yoon",
+                "given": "Sang Ho"
+            },
+            {
+                "family": "Hong",
+                "given": "Sung-Hee"
             },
             {
                 "family": "Kim",
@@ -1110,25 +1026,25 @@
     {
         "id": "paper_23",
         "type": "paper-conference",
-        "title": "InstructBooth: Instruction-following Personalized Text-to-Image Generation",
-        "container-title": "ICML 2024 (Workshop)",
-        "URL": "https://daewon88.github.io/",
+        "title": "BEVMap: Map-Aware BEV Modeling for 3D Perception",
+        "container-title": "WACV 2024",
+        "URL": "https://openaccess.thecvf.com/content/WACV2024/papers/Chang_BEVMap_Map-Aware_BEV_Modeling_for_3D_Perception_WACV_2024_paper.pdf",
         "author": [
             {
-                "family": "Chae",
-                "given": "Daewon"
+                "family": "Chang",
+                "given": "Mincheol"
             },
             {
-                "family": "Park",
-                "given": "Nokyung"
+                "family": "Moon",
+                "given": "Seokha"
+            },
+            {
+                "family": "Mahjourian",
+                "given": "Reza"
             },
             {
                 "family": "Kim",
                 "given": "Jinkyu"
-            },
-            {
-                "family": "Lee",
-                "given": "Kimin"
             }
         ],
         "page": "",
@@ -1147,6 +1063,936 @@
     },
     {
         "id": "paper_24",
+        "type": "paper-conference",
+        "title": "CMDA: Cross-Modal and Domain Adversarial Adaptation for LiDAR-Based 3D Object Detection",
+        "container-title": "AAAI 2024",
+        "URL": "https://ojs.aaai.org/index.php/AAAI/article/view/27857",
+        "author": [
+            {
+                "family": "Chang*",
+                "given": "Gyusam"
+            },
+            {
+                "family": "Roh*",
+                "given": "Wonseok"
+            },
+            {
+                "family": "Jang",
+                "given": "Sujin"
+            },
+            {
+                "family": "Lee",
+                "given": "Dongwook"
+            },
+            {
+                "family": "Ji",
+                "given": "Daehyun"
+            },
+            {
+                "family": "Oh",
+                "given": "Gyeongrok"
+            },
+            {
+                "family": "Park",
+                "given": "Jinsun"
+            },
+            {
+                "family": "Kim†",
+                "given": "Jinkyu"
+            },
+            {
+                "family": "Kim†",
+                "given": "Sangpil"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2024"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_25",
+        "type": "paper-conference",
+        "title": "Clustering-based Image-Text Graph Matching for Domain Generalization",
+        "container-title": "ICPR 2024",
+        "URL": "https://link.springer.com/chapter/10.1007/978-3-031-78192-6_26",
+        "author": [
+            {
+                "family": "Park",
+                "given": "Nokyung"
+            },
+            {
+                "family": "Chae",
+                "given": "Daewon"
+            },
+            {
+                "family": "Shim",
+                "given": "Jeongyong"
+            },
+            {
+                "family": "Kim",
+                "given": "Sangpil"
+            },
+            {
+                "family": "Kim†",
+                "given": "Eun-Sol"
+            },
+            {
+                "family": "Kim†",
+                "given": "Jinkyu"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2024"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_26",
+        "type": "paper-conference",
+        "title": "Enhanced Motion Forecasting with Visual Relation Reasoning",
+        "container-title": "ECCV 2024",
+        "URL": "https://link.springer.com/chapter/10.1007/978-3-031-72992-8_18",
+        "author": [
+            {
+                "family": "Kim",
+                "given": "Sungjune"
+            },
+            {
+                "family": "Baek",
+                "given": "Hadam"
+            },
+            {
+                "family": "Lee",
+                "given": "Seunggwan"
+            },
+            {
+                "family": "Chi",
+                "given": "Hyung Gun"
+            },
+            {
+                "family": "Lim",
+                "given": "Hyerin"
+            },
+            {
+                "family": "Kim†",
+                "given": "Jinkyu"
+            },
+            {
+                "family": "Kim†",
+                "given": "Sangpil"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2024"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_27",
+        "type": "paper-conference",
+        "title": "Finetuning Pre-trained Model with Limited Data for LiDAR-based 3D Object Detection by Bridging Domain Gaps",
+        "container-title": "IROS 2024",
+        "URL": "https://arxiv.org/abs/2410.01319",
+        "author": [
+            {
+                "family": "Jang",
+                "given": "Jiyun"
+            },
+            {
+                "family": "Chang",
+                "given": "Mincheol"
+            },
+            {
+                "family": "Park",
+                "given": "Jongwon"
+            },
+            {
+                "family": "Kim",
+                "given": "Jinkyu"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2024"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_28",
+        "type": "paper-conference",
+        "title": "FoMu-SSL: Foundation Model-Guided Multi-Sensor Self-Supervised Learning for Remote Sensing",
+        "container-title": "ICML 2024 (Workshop)",
+        "URL": "https://openreview.net/forum?id=sLTcHBE2vV",
+        "author": [
+            {
+                "family": "Seo",
+                "given": "Dabin"
+            },
+            {
+                "family": "Jung",
+                "given": "Haeji"
+            },
+            {
+                "family": "Kim",
+                "given": "Jinkyu"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2024"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_29",
+        "type": "paper-conference",
+        "title": "Higher-order Relational Reasoning for Pedestrian Trajectory Prediction",
+        "container-title": "CVPR 2024",
+        "URL": "https://openaccess.thecvf.com/content/CVPR2024/html/Kim_Higher-order_Relational_Reasoning_for_Pedestrian_Trajectory_Prediction_CVPR_2024_paper.html",
+        "author": [
+            {
+                "family": "Kim",
+                "given": "Sungjune"
+            },
+            {
+                "family": "Chi",
+                "given": "Hyung-gun"
+            },
+            {
+                "family": "Lim",
+                "given": "Hyerin"
+            },
+            {
+                "family": "Ramani",
+                "given": "Karthik"
+            },
+            {
+                "family": "Kim†",
+                "given": "Jinkyu"
+            },
+            {
+                "family": "Kim†",
+                "given": "Sangpil"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2024"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_30",
+        "type": "paper-conference",
+        "title": "InstructBooth: Instruction-following Personalized Text-to-Image Generation",
+        "container-title": "ICML 2024 (Workshop)",
+        "URL": "https://arxiv.org/abs/2312.03011",
+        "author": [
+            {
+                "family": "Chae",
+                "given": "Daewon"
+            },
+            {
+                "family": "Park",
+                "given": "Nokyung"
+            },
+            {
+                "family": "Kim†",
+                "given": "Jinkyu"
+            },
+            {
+                "family": "Lee†",
+                "given": "Kimin"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2024"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_31",
+        "type": "paper-conference",
+        "title": "Just Add $100 More: Augmenting Pseudo-LiDAR Point Cloud for Resolving Class-imbalance Problem",
+        "container-title": "NeurIPS 2024",
+        "URL": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/7a0f7e9d9b42b26e5bfc9ba4c6e5287c-Abstract-Conference.html",
+        "author": [
+            {
+                "family": "Chang*",
+                "given": "Mincheol"
+            },
+            {
+                "family": "Lee*",
+                "given": "Siyeong"
+            },
+            {
+                "family": "Kim",
+                "given": "Jinkyu"
+            },
+            {
+                "family": "Kim",
+                "given": "Namil"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2024"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_32",
+        "type": "paper-conference",
+        "title": "LRSLAM: Low-Rank Representation of Signed Distance Fields in Dense Visual SLAM System",
+        "container-title": "ECCV 2024",
+        "URL": "https://arxiv.org/abs/2506.10567",
+        "author": [
+            {
+                "family": "Park",
+                "given": "Hongbeen"
+            },
+            {
+                "family": "Park",
+                "given": "Minjeong"
+            },
+            {
+                "family": "Nam",
+                "given": "Giljoo"
+            },
+            {
+                "family": "Kim",
+                "given": "Jinkyu"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2024"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_33",
+        "type": "paper-conference",
+        "title": "Learning Temporal Cues by Predicting Objects Move for Multi-camera 3D Object Detection",
+        "container-title": "ICRA 2024",
+        "URL": "https://arxiv.org/abs/2404.01580",
+        "author": [
+            {
+                "family": "Moon",
+                "given": "Seokha"
+            },
+            {
+                "family": "Park",
+                "given": "Hongbeen"
+            },
+            {
+                "family": "Kwon",
+                "given": "Jungphil"
+            },
+            {
+                "family": "Lee",
+                "given": "Jaekoo"
+            },
+            {
+                "family": "Kim",
+                "given": "Jinkyu"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2024"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_34",
+        "type": "paper-conference",
+        "title": "Localization and Manipulation of Immoral Visual Cues for Safe Text-to-Image Generation",
+        "container-title": "WACV 2024",
+        "URL": "https://openaccess.thecvf.com/content/WACV2024/html/Park_Localization_and_Manipulation_of_Immoral_Visual_Cues_for_Safe_Text-to-Image_WACV_2024_paper.html",
+        "author": [
+            {
+                "family": "Park",
+                "given": "Seongbeom"
+            },
+            {
+                "family": "Moon",
+                "given": "Suhong"
+            },
+            {
+                "family": "Park†",
+                "given": "Seunghyun"
+            },
+            {
+                "family": "Kim†",
+                "given": "Jinkyu"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2024"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_35",
+        "type": "paper-conference",
+        "title": "Mitigating the Linguistic Gap with Phonemic Representations for Robust Cross-lingual Transfer",
+        "container-title": "EMNLP 2024 (Workshop)",
+        "URL": "https://aclanthology.org/2024.mrl-1.16/",
+        "author": [
+            {
+                "family": "Jung",
+                "given": "Haeji"
+            },
+            {
+                "family": "Oh",
+                "given": "Changdae"
+            },
+            {
+                "family": "Kang",
+                "given": "Jooeon"
+            },
+            {
+                "family": "Sohn",
+                "given": "Jimin"
+            },
+            {
+                "family": "Song",
+                "given": "Kyungwoo"
+            },
+            {
+                "family": "Kim",
+                "given": "Jinkyu"
+            },
+            {
+                "family": "Mortensen",
+                "given": "David R"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2024"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_36",
+        "type": "paper-conference",
+        "title": "Robust sound-guided image manipulation",
+        "container-title": "NN 2024",
+        "URL": "https://www.sciencedirect.com/science/article/abs/pii/S0893608024001953",
+        "author": [
+            {
+                "family": "Lee",
+                "given": "Seung Hyun"
+            },
+            {
+                "family": "Oh",
+                "given": "Gyeongrok"
+            },
+            {
+                "family": "Byeon",
+                "given": "Wonmin"
+            },
+            {
+                "family": "Yoon",
+                "given": "Sang Ho"
+            },
+            {
+                "family": "Kim†",
+                "given": "Jinkyu"
+            },
+            {
+                "family": "Kim†",
+                "given": "Sangpil"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2024"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_37",
+        "type": "paper-conference",
+        "title": "Text-Driven Prototype Learning for Few-Shot Class-Incremental Learning",
+        "container-title": "ICPR 2024",
+        "URL": "https://link.springer.com/chapter/10.1007/978-3-031-78189-6_2",
+        "author": [
+            {
+                "family": "Park*",
+                "given": "Seongbeom"
+            },
+            {
+                "family": "Jung*",
+                "given": "Haeji"
+            },
+            {
+                "family": "Chae",
+                "given": "Daewon"
+            },
+            {
+                "family": "Yun",
+                "given": "Hyunju"
+            },
+            {
+                "family": "Kim",
+                "given": "Sungyoon"
+            },
+            {
+                "family": "Moon",
+                "given": "Suhong"
+            },
+            {
+                "family": "Kim",
+                "given": "Jinkyu"
+            },
+            {
+                "family": "Park",
+                "given": "Seunghyun"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2024"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_38",
+        "type": "paper-conference",
+        "title": "Toward Interactive Regional Understanding in Vision-Large Language Models",
+        "container-title": "NAACL 2024",
+        "URL": "https://aclanthology.org/2024.naacl-long.356.pdf",
+        "author": [
+            {
+                "family": "Lee",
+                "given": "Jungbeom"
+            },
+            {
+                "family": "Chun†",
+                "given": "Sanghyuk"
+            },
+            {
+                "family": "Yun†",
+                "given": "Sangdoo"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2024"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_39",
+        "type": "paper-conference",
+        "title": "Unified Domain Generalization and Adaptation for Multi-View 3D Object Detection",
+        "container-title": "NeurIPS 2024",
+        "URL": "https://proceedings.neurips.cc/paper_files/paper/2024/hash/6b7e1e96243c9edc378f85e7d232e415-Abstract-Conference.html",
+        "author": [
+            {
+                "family": "Chang*",
+                "given": "Gyusam"
+            },
+            {
+                "family": "Lee*",
+                "given": "Jiwon"
+            },
+            {
+                "family": "Kim",
+                "given": "Donghyun"
+            },
+            {
+                "family": "Kim",
+                "given": "Jinkyu"
+            },
+            {
+                "family": "Lee",
+                "given": "Dongwook"
+            },
+            {
+                "family": "Ji",
+                "given": "Daehyun"
+            },
+            {
+                "family": "Jang†",
+                "given": "Sujin"
+            },
+            {
+                "family": "Kim†",
+                "given": "Sangpil"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2024"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_40",
+        "type": "paper-conference",
+        "title": "VisionTrap: Vision-Augmented Trajectory Prediction Guided by Textual Descriptions",
+        "container-title": "ECCV 2024",
+        "URL": "https://arxiv.org/abs/2407.12345",
+        "author": [
+            {
+                "family": "Moon",
+                "given": "Seokha"
+            },
+            {
+                "family": "Woo",
+                "given": "Hyun"
+            },
+            {
+                "family": "Park",
+                "given": "Hongbeen"
+            },
+            {
+                "family": "Jung",
+                "given": "Haeji"
+            },
+            {
+                "family": "Mahjourian",
+                "given": "Reza"
+            },
+            {
+                "family": "Chi",
+                "given": "Hyung-gun"
+            },
+            {
+                "family": "Lim",
+                "given": "Hyerin"
+            },
+            {
+                "family": "Kim",
+                "given": "Sangpil"
+            },
+            {
+                "family": "Kim",
+                "given": "Jinkyu"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2024"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_41",
+        "type": "paper-conference",
+        "title": "Who Should Have Been Focused: Transferring Attention-Based Knowledge from Future Observations for Trajectory Prediction",
+        "container-title": "ICPR 2024",
+        "URL": "https://link.springer.com/chapter/10.1007/978-3-031-78447-7_23",
+        "author": [
+            {
+                "family": "Moon",
+                "given": "Seokha"
+            },
+            {
+                "family": "Yeon",
+                "given": "Kyuhwan"
+            },
+            {
+                "family": "Kim",
+                "given": "Hayoung"
+            },
+            {
+                "family": "Jeong",
+                "given": "Seong-Gyun"
+            },
+            {
+                "family": "Kim",
+                "given": "Jinkyu"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2024"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_42",
+        "type": "paper-conference",
+        "title": "An Embedding-Dynamic Approach to Self-Supervised Learning",
+        "container-title": "WACV 2023",
+        "URL": "https://openaccess.thecvf.com/content/WACV2023/html/Moon_An_Embedding-Dynamic_Approach_to_Self-Supervised_Learning_WACV_2023_paper.html",
+        "author": [
+            {
+                "family": "Moon",
+                "given": "Suhong"
+            },
+            {
+                "family": "Buracas",
+                "given": "Domas"
+            },
+            {
+                "family": "Park",
+                "given": "Seunghyun"
+            },
+            {
+                "family": "Kim",
+                "given": "Jinkyu"
+            },
+            {
+                "family": "Canny",
+                "given": "John"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2023"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_43",
+        "type": "paper-conference",
+        "title": "CloudNet: A LiDAR-based face anti-spoofing model that is robust against light variation",
+        "container-title": "IEEE Access 2023",
+        "URL": "https://ieeexplore.ieee.org/abstract/document/10038600/",
+        "author": [
+            {
+                "family": "Kim",
+                "given": "Yongrae"
+            },
+            {
+                "family": "Gwak",
+                "given": "Hyunmin"
+            },
+            {
+                "family": "Oh",
+                "given": "Jaehoon"
+            },
+            {
+                "family": "Kang",
+                "given": "Minho"
+            },
+            {
+                "family": "Kim",
+                "given": "Jinkyu"
+            },
+            {
+                "family": "Kwon†",
+                "given": "Hyun"
+            },
+            {
+                "family": "Kim†",
+                "given": "Sunghwan"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2023"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_44",
+        "type": "paper-conference",
+        "title": "Ensuring visual commonsense morality for text-to-image generation",
+        "container-title": "ICML 2023 (Workshop)",
+        "URL": "https://arxiv.org/abs/2212.03507",
+        "author": [
+            {
+                "family": "Park",
+                "given": "Seongbeom"
+            },
+            {
+                "family": "Moon",
+                "given": "Suhong"
+            },
+            {
+                "family": "Kim",
+                "given": "Jinkyu"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2023"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_45",
         "type": "paper-conference",
         "title": "Improving Visual Prompt Tuning for Self-supervised Vision Transformers",
         "container-title": "ICML 2023",
@@ -1188,11 +2034,95 @@
         }
     },
     {
-        "id": "paper_25",
+        "id": "paper_46",
+        "type": "paper-conference",
+        "title": "Resolving class imbalance for lidar-based object detector by dynamic weight average and contextual ground truth sampling",
+        "container-title": "WACV 2023",
+        "URL": "https://arxiv.org/abs/2210.03331",
+        "author": [
+            {
+                "family": "Lee",
+                "given": "Daeun"
+            },
+            {
+                "family": "Park",
+                "given": "Jongwon"
+            },
+            {
+                "family": "Kim",
+                "given": "Jinkyu"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2023"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_47",
+        "type": "paper-conference",
+        "title": "The Power of Sound (TPoS): Audio Reactive Video Generation with Stable Diffusion",
+        "container-title": "ICCV 2023",
+        "URL": "https://arxiv.org/abs/2309.04509",
+        "author": [
+            {
+                "family": "Jeong",
+                "given": "Yujin"
+            },
+            {
+                "family": "Ryoo",
+                "given": "Wonjeong"
+            },
+            {
+                "family": "Lee",
+                "given": "Seunghyun"
+            },
+            {
+                "family": "Seo",
+                "given": "Dabin"
+            },
+            {
+                "family": "Byeon",
+                "given": "Wonmin"
+            },
+            {
+                "family": "Kim†",
+                "given": "Sangpil"
+            },
+            {
+                "family": "Kim†",
+                "given": "Jinkyu"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2023"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_48",
         "type": "paper-conference",
         "title": "Weakly Supervised Referring Image Segmentation with Intra-Chunk and Inter-Chunk Consistency",
         "container-title": "ICCV 2023",
-        "URL": "https://www.researchgate.net/",
+        "URL": "https://openaccess.thecvf.com/content/ICCV2023/papers/Lee_Weakly_Supervised_Referring_Image_Segmentation_with_Intra-Chunk_and_Inter-Chunk_Consistency_ICCV_2023_paper.pdf",
         "author": [
             {
                 "family": "Lee",
@@ -1211,12 +2141,12 @@
                 "given": "Seunghak"
             },
             {
-                "family": "Chun",
-                "given": "Sanghyuk"
+                "family": "Do",
+                "given": "Jaeyoung"
             },
             {
-                "family": "Yun",
-                "given": "Sangdoo"
+                "family": "Taghavi",
+                "given": "Tara"
             }
         ],
         "page": "",
@@ -1234,103 +2164,11 @@
         }
     },
     {
-        "id": "paper_26",
-        "type": "paper-conference",
-        "title": "CloudNet: A LiDAR-based face anti-spoofing model that is robust against light variation",
-        "container-title": "IEEE Access 2023",
-        "URL": "https://doi.org/10.1109/ACCESS.2023.3242654",
-        "author": [
-            {
-                "family": "Kim",
-                "given": "Yongrae"
-            },
-            {
-                "family": "Gwak",
-                "given": "Hyunmin"
-            },
-            {
-                "family": "Oh",
-                "given": "Jaehoon"
-            },
-            {
-                "family": "Kang",
-                "given": "Minho"
-            },
-            {
-                "family": "Kim",
-                "given": "Jinkyu"
-            },
-            {
-                "family": "Kwon",
-                "given": "Hyun"
-            },
-            {
-                "family": "Kim",
-                "given": "Sunghwan"
-            }
-        ],
-        "page": "",
-        "volume": "",
-        "issue": "",
-        "source": "",
-        "abstract": "",
-        "DOI": "",
-        "issued": {
-            "date-parts": [
-                [
-                    "2023"
-                ]
-            ]
-        }
-    },
-    {
-        "id": "paper_27",
-        "type": "paper-conference",
-        "title": "An Embedding-Dynamic Approach to Self-Supervised Learning",
-        "container-title": "WACV 2023",
-        "URL": "https://www.google.com/search?q=https://openreview.net/forum%3Fid%3DV2lR5C9-Gq",
-        "author": [
-            {
-                "family": "Moon",
-                "given": "Suhong"
-            },
-            {
-                "family": "Buracas",
-                "given": "Domas"
-            },
-            {
-                "family": "Park",
-                "given": "Seunghyun"
-            },
-            {
-                "family": "Kim",
-                "given": "Jinkyu"
-            },
-            {
-                "family": "Canny",
-                "given": "John F."
-            }
-        ],
-        "page": "",
-        "volume": "",
-        "issue": "",
-        "source": "",
-        "abstract": "",
-        "DOI": "",
-        "issued": {
-            "date-parts": [
-                [
-                    "2023"
-                ]
-            ]
-        }
-    },
-    {
-        "id": "paper_28",
+        "id": "paper_49",
         "type": "paper-conference",
         "title": "Anti-Adversarially Manipulated Attributions for Weakly Supervised Semantic Segmentation and Object Localization",
         "container-title": "IEEE TPAMI 2022",
-        "URL": "https://arxiv.org/abs/2204.04890",
+        "URL": "https://arxiv.org/pdf/2204.04890",
         "author": [
             {
                 "family": "Lee",
@@ -1364,31 +2202,27 @@
         }
     },
     {
-        "id": "paper_29",
+        "id": "paper_50",
         "type": "paper-conference",
-        "title": "Weakly Supervised Semantic Segmentation using Out-of-Distribution Data",
+        "title": "Bridging the Gap between Classification and Localization for Weakly Supervised Object Localization",
         "container-title": "CVPR 2022",
-        "URL": "https://arxiv.org/abs/2203.03860",
+        "URL": "https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_Bridging_the_Gap_Between_Classification_and_Localization_for_Weakly_Supervised_CVPR_2022_paper.pdf",
         "author": [
+            {
+                "family": "Kim",
+                "given": "Eunji"
+            },
+            {
+                "family": "Kim",
+                "given": "Siwon"
+            },
             {
                 "family": "Lee",
                 "given": "Jungbeom"
             },
             {
-                "family": "Oh",
-                "given": "Seong Joon"
-            },
-            {
-                "family": "Yun",
-                "given": "Sangdoo"
-            },
-            {
-                "family": "Choe",
-                "given": "Junsuk"
-            },
-            {
                 "family": "Kim",
-                "given": "Eunji"
+                "given": "Hyunwoo"
             },
             {
                 "family": "Yoon",
@@ -1410,11 +2244,229 @@
         }
     },
     {
-        "id": "paper_30",
+        "id": "paper_51",
+        "type": "paper-conference",
+        "title": "Bridging the domain gap towards generalization in automatic colorization",
+        "container-title": "ECCV 2022",
+        "URL": "https://link.springer.com/chapter/10.1007/978-3-031-19790-1_32",
+        "author": [
+            {
+                "family": "Lee*",
+                "given": "Hyejin"
+            },
+            {
+                "family": "Kim*",
+                "given": "Daehee"
+            },
+            {
+                "family": "Lee",
+                "given": "Daeun"
+            },
+            {
+                "family": "Kim†",
+                "given": "Jinkyu"
+            },
+            {
+                "family": "Lee†",
+                "given": "Jaekoo"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2022"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_52",
+        "type": "paper-conference",
+        "title": "Grounding visual representations with texts for domain generalization",
+        "container-title": "ECCV 2022",
+        "URL": "https://link.springer.com/chapter/10.1007/978-3-031-19836-6_3",
+        "author": [
+            {
+                "family": "Min",
+                "given": "Seonwoo"
+            },
+            {
+                "family": "Park",
+                "given": "Nokyung"
+            },
+            {
+                "family": "Kim",
+                "given": "Siwon"
+            },
+            {
+                "family": "Park",
+                "given": "Seunghyun"
+            },
+            {
+                "family": "Kim",
+                "given": "Jinkyu"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2022"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_53",
+        "type": "paper-conference",
+        "title": "Inter-domain curriculum learning for domain generalization",
+        "container-title": "ICT Express 2022",
+        "URL": "https://www.sciencedirect.com/science/article/pii/S2405959521001648",
+        "author": [
+            {
+                "family": "Kim",
+                "given": "Daehee"
+            },
+            {
+                "family": "Kim",
+                "given": "Jinkyu"
+            },
+            {
+                "family": "Lee*",
+                "given": "Jaekoo"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2022"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_54",
+        "type": "paper-conference",
+        "title": "Occupancy flow fields for motion forecasting in autonomous driving",
+        "container-title": "IEEE R&A Letters 2022",
+        "URL": "https://ieeexplore.ieee.org/abstract/document/9713950/",
+        "author": [
+            {
+                "family": "Mahjourian*",
+                "given": "Reza"
+            },
+            {
+                "family": "Kim*",
+                "given": "Jinkyu"
+            },
+            {
+                "family": "Chai",
+                "given": "Yuning"
+            },
+            {
+                "family": "Tan",
+                "given": "Mingxing"
+            },
+            {
+                "family": "Sapp",
+                "given": "Ben"
+            },
+            {
+                "family": "Anguelov",
+                "given": "Dragomir"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2022"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_55",
+        "type": "paper-conference",
+        "title": "Ora3d: Overlap region aware multi-view 3d object detection",
+        "container-title": "BMVC 2022",
+        "URL": "https://arxiv.org/abs/2207.00865",
+        "author": [
+            {
+                "family": "Roh",
+                "given": "Wonseok"
+            },
+            {
+                "family": "Chang",
+                "given": "Gyusam"
+            },
+            {
+                "family": "Moon",
+                "given": "Seokha"
+            },
+            {
+                "family": "Nam",
+                "given": "Giljoo"
+            },
+            {
+                "family": "Kim",
+                "given": "Chanyoung"
+            },
+            {
+                "family": "Kim",
+                "given": "Younghyun"
+            },
+            {
+                "family": "Kim†",
+                "given": "Jinkyu"
+            },
+            {
+                "family": "Kim†",
+                "given": "Sangpil"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2022"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_56",
         "type": "paper-conference",
         "title": "Perception Prioritized Training of Diffusion Models",
         "container-title": "CVPR 2022",
-        "URL": "https://arxiv.org/abs/2204.00227",
+        "URL": "https://openaccess.thecvf.com/content/CVPR2022/papers/Choi_Perception_Prioritized_Training_of_Diffusion_Models_CVPR_2022_paper.pdf",
         "author": [
             {
                 "family": "Choi",
@@ -1456,84 +2508,38 @@
         }
     },
     {
-        "id": "paper_31",
+        "id": "paper_57",
         "type": "paper-conference",
-        "title": "Bridging the Gap between Classification and Localization for Weakly Supervised Object Localization",
+        "title": "Sound-guided semantic image manipulation",
         "container-title": "CVPR 2022",
-        "URL": "https://arxiv.org/abs/2204.00220",
+        "URL": "http://openaccess.thecvf.com/content/CVPR2022/html/Lee_Sound-Guided_Semantic_Image_Manipulation_CVPR_2022_paper.html",
         "author": [
-            {
-                "family": "Kim",
-                "given": "Eunji"
-            },
-            {
-                "family": "Kim",
-                "given": "Siwon"
-            },
             {
                 "family": "Lee",
-                "given": "Jungbeom"
+                "given": "Seung Hyun"
             },
-            {
-                "family": "Kim",
-                "given": "Hyunwoo"
-            },
-            {
-                "family": "Yoon",
-                "given": "Sungroh"
-            }
-        ],
-        "page": "",
-        "volume": "",
-        "issue": "",
-        "source": "",
-        "abstract": "",
-        "DOI": "",
-        "issued": {
-            "date-parts": [
-                [
-                    "2022"
-                ]
-            ]
-        }
-    },
-    {
-        "id": "paper_32",
-        "type": "paper-conference",
-        "title": "Ora3d: Overlap region aware multi-view 3d object detection",
-        "container-title": "BMVC 2022",
-        "URL": "https://arxiv.org/abs/2207.03150",
-        "author": [
             {
                 "family": "Roh",
                 "given": "Wonseok"
             },
             {
-                "family": "Chang",
-                "given": "Gyusam"
+                "family": "Byeon",
+                "given": "Wonmin"
             },
             {
-                "family": "Moon",
-                "given": "Seokha"
-            },
-            {
-                "family": "Nam",
-                "given": "Giljoo"
+                "family": "Yoon",
+                "given": "Sang Ho"
             },
             {
                 "family": "Kim",
-                "given": "Chanyoung"
+                "given": "Chan Young"
             },
             {
-                "family": "Kim",
-                "given": "Younghyun"
-            },
-            {
-                "family": "Kim",
+                "family": "Kim†",
                 "given": "Jinkyu"
             },
             {
-                "family": "Kim",
+                "family": "Kim†",
                 "given": "Sangpil"
             }
         ],
@@ -1552,23 +2558,85 @@
         }
     },
     {
-        "id": "paper_33",
+        "id": "paper_58",
         "type": "paper-conference",
-        "title": "Stopnet: Scalable trajectory and occupancy prediction for urban autonomous driving",
-        "container-title": "ICRA 2022",
-        "URL": "https://arxiv.org/abs/2206.00991",
+        "title": "Sound-guided semantic video generation",
+        "container-title": "ECCV 2022",
+        "URL": "https://link.springer.com/chapter/10.1007/978-3-031-19790-1_3",
         "author": [
             {
+                "family": "Lee",
+                "given": "Seung Hyun"
+            },
+            {
+                "family": "Oh",
+                "given": "Gyeongrok"
+            },
+            {
+                "family": "Byeon",
+                "given": "Wonmin"
+            },
+            {
                 "family": "Kim",
+                "given": "Chanyoung"
+            },
+            {
+                "family": "Ryoo",
+                "given": "Won Jeong"
+            },
+            {
+                "family": "Yoon",
+                "given": "Sang Ho"
+            },
+            {
+                "family": "Cho",
+                "given": "Hyunjun"
+            },
+            {
+                "family": "Bae",
+                "given": "Jihyun"
+            },
+            {
+                "family": "Kim†",
                 "given": "Jinkyu"
             },
             {
-                "family": "Mahjourian",
+                "family": "Kim†",
+                "given": "Sangpil"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2022"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_59",
+        "type": "paper-conference",
+        "title": "Stopnet: Scalable trajectory and occupancy prediction for urban autonomous driving",
+        "container-title": "ICRA 2022",
+        "URL": "https://ieeexplore.ieee.org/abstract/document/9811830/",
+        "author": [
+            {
+                "family": "Kim*",
+                "given": "Jinkyu"
+            },
+            {
+                "family": "Mahjourian*",
                 "given": "Reza"
             },
             {
                 "family": "Ettinger",
-                "given": "Scott M."
+                "given": "Scott"
             },
             {
                 "family": "Bansal",
@@ -1576,11 +2644,11 @@
             },
             {
                 "family": "White",
-                "given": "Brandyn Allen"
+                "given": "Brandyn"
             },
             {
                 "family": "Sapp",
-                "given": "Benjamin"
+                "given": "Ben"
             },
             {
                 "family": "Anguelov",
@@ -1602,73 +2670,123 @@
         }
     },
     {
-        "id": "paper_34",
+        "id": "paper_60",
         "type": "paper-conference",
-        "title": "Occupancy flow fields for motion forecasting in autonomous driving",
-        "container-title": "IEEE R&A Letters 2022",
-        "URL": "https://arxiv.org/abs/2203.03875",
+        "title": "Weakly Supervised Semantic Segmentation using Out-of-Distribution Data",
+        "container-title": "CVPR 2022",
+        "URL": "https://openaccess.thecvf.com/content/CVPR2022/papers/Lee_Weakly_Supervised_Semantic_Segmentation_Using_Out-of-Distribution_Data_CVPR_2022_paper.pdf",
         "author": [
             {
-                "family": "Mahjourian",
-                "given": "Reza"
+                "family": "Lee",
+                "given": "Jungbeom"
+            },
+            {
+                "family": "Oh",
+                "given": "Seong Joon"
+            },
+            {
+                "family": "Yun",
+                "given": "Sangdoo"
+            },
+            {
+                "family": "Choe",
+                "given": "Junsuk"
+            },
+            {
+                "family": "Kim",
+                "given": "Eunji"
+            },
+            {
+                "family": "Yoon",
+                "given": "Sungroh"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2022"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_61",
+        "type": "paper-conference",
+        "title": "Zero-shot visual commonsense immorality prediction",
+        "container-title": "BMVC 2022",
+        "URL": "https://arxiv.org/abs/2211.05521",
+        "author": [
+            {
+                "family": "Jeong",
+                "given": "Yujin"
+            },
+            {
+                "family": "Park",
+                "given": "Seongbeom"
+            },
+            {
+                "family": "Moon",
+                "given": "Suhong"
+            },
+            {
+                "family": "Kim",
+                "given": "Jinkyu"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2022"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_62",
+        "type": "paper-conference",
+        "title": "A Scenario-Based Platform for Testing Autonomous Vehicle Behavior Prediction Models in Simulation",
+        "container-title": "NeurIPS 2021 (Workshop)",
+        "URL": "https://arxiv.org/abs/2110.14870",
+        "author": [
+            {
+                "family": "Indaheng",
+                "given": "Francis"
+            },
+            {
+                "family": "Kim",
+                "given": "Edward"
+            },
+            {
+                "family": "Viswanadha",
+                "given": "Kesav"
+            },
+            {
+                "family": "Shenoy",
+                "given": "Jay"
             },
             {
                 "family": "Kim",
                 "given": "Jinkyu"
             },
             {
-                "family": "Chai",
-                "given": "Yuning"
+                "family": "Fremont",
+                "given": "Daniel J."
             },
             {
-                "family": "Tan",
-                "given": "Mingxing"
-            },
-            {
-                "family": "Sapp",
-                "given": "Benjamin"
-            },
-            {
-                "family": "Anguelov",
-                "given": "Dragomir"
-            }
-        ],
-        "page": "",
-        "volume": "",
-        "issue": "",
-        "source": "",
-        "abstract": "",
-        "DOI": "",
-        "issued": {
-            "date-parts": [
-                [
-                    "2022"
-                ]
-            ]
-        }
-    },
-    {
-        "id": "paper_35",
-        "type": "paper-conference",
-        "title": "Reducing Information Bottleneck for Weakly Supervised Semantic Segmentation",
-        "container-title": "NeurIPS 2021",
-        "URL": "https://arxiv.org/abs/2110.06530",
-        "author": [
-            {
-                "family": "Lee",
-                "given": "Jungbeom"
-            },
-            {
-                "family": "Choi",
-                "given": "Jooyoung"
-            },
-            {
-                "family": "Mok",
-                "given": "Jisoo"
-            },
-            {
-                "family": "Yoon",
-                "given": "Sungroh"
+                "family": "Seshia",
+                "given": "Sanjit A."
             }
         ],
         "page": "",
@@ -1686,49 +2804,11 @@
         }
     },
     {
-        "id": "paper_36",
-        "type": "paper-conference",
-        "title": "Toward Spatially Unbiased Generative Models",
-        "container-title": "ICCV 2021",
-        "URL": "https://arxiv.org/abs/2108.01285",
-        "author": [
-            {
-                "family": "Choi",
-                "given": "Jooyoung"
-            },
-            {
-                "family": "Lee",
-                "given": "Jungbeom"
-            },
-            {
-                "family": "Jeong",
-                "given": "Yonghyun"
-            },
-            {
-                "family": "Yoon",
-                "given": "Sungroh"
-            }
-        ],
-        "page": "",
-        "volume": "",
-        "issue": "",
-        "source": "",
-        "abstract": "",
-        "DOI": "",
-        "issued": {
-            "date-parts": [
-                [
-                    "2021"
-                ]
-            ]
-        }
-    },
-    {
-        "id": "paper_37",
+        "id": "paper_63",
         "type": "paper-conference",
         "title": "Anti-Adversarially Manipulated Attributions for Weakly and Semi-Supervised Semantic Segmentation",
         "container-title": "CVPR 2021",
-        "URL": "https://arxiv.org/abs/2103.08896",
+        "URL": "https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Anti-Adversarially_Manipulated_Attributions_for_Weakly_and_Semi-Supervised_Semantic_Segmentation_CVPR_2021_paper.pdf",
         "author": [
             {
                 "family": "Lee",
@@ -1758,11 +2838,61 @@
         }
     },
     {
-        "id": "paper_38",
+        "id": "paper_64",
+        "type": "paper-conference",
+        "title": "Audio-Guided Image Manipulation for Artistic Paintings",
+        "container-title": "NeurIPS 2021 (Workshop)",
+        "URL": "https://nahyuklee.github.io/pdf/neuripsw2021.pdf",
+        "author": [
+            {
+                "family": "Lee",
+                "given": "Seung Hyun"
+            },
+            {
+                "family": "Lee",
+                "given": "Nahyuk"
+            },
+            {
+                "family": "Kim",
+                "given": "Chanyoung"
+            },
+            {
+                "family": "Ryoo",
+                "given": "Wonjeong"
+            },
+            {
+                "family": "Kim",
+                "given": "Jinkyu"
+            },
+            {
+                "family": "Yoon†",
+                "given": "Sang Ho"
+            },
+            {
+                "family": "Kim†",
+                "given": "Sangpil"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2021"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_65",
         "type": "paper-conference",
         "title": "BBAM: Bounding Box Attribution Map for Weakly Supervised Semantic and Instance Segmentation",
         "container-title": "CVPR 2021",
-        "URL": "https://arxiv.org/abs/2103.08907",
+        "URL": "https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_BBAM_Bounding_Box_Attribution_Map_for_Weakly_Supervised_Semantic_and_CVPR_2021_paper.pdf",
         "author": [
             {
                 "family": "Lee",
@@ -1796,27 +2926,27 @@
         }
     },
     {
-        "id": "paper_39",
+        "id": "paper_66",
         "type": "paper-conference",
-        "title": "Selfreg: Self-supervised contrastive regularization for domain generalization",
-        "container-title": "ICCV 2021",
-        "URL": "https://openaccess.thecvf.com/",
+        "title": "Reducing Information Bottleneck for Weakly Supervised Semantic Segmentation",
+        "container-title": "NeurIPS 2021",
+        "URL": "https://proceedings.nips.cc/paper_files/paper/2021/file/e6384711491713d29bc63fc5eeb5ba4f-Paper.pdf",
         "author": [
             {
-                "family": "Kim",
-                "given": "Daehee"
-            },
-            {
-                "family": "Cho",
-                "given": "Youngjun"
-            },
-            {
                 "family": "Lee",
-                "given": "Kyounghun"
+                "given": "Jungbeom"
             },
             {
-                "family": "Kim",
-                "given": "Jinkyu"
+                "family": "Choi",
+                "given": "Jooyoung"
+            },
+            {
+                "family": "Mok",
+                "given": "Jisoo"
+            },
+            {
+                "family": "Yoon",
+                "given": "Sungroh"
             }
         ],
         "page": "",
@@ -1834,11 +2964,171 @@
         }
     },
     {
-        "id": "paper_40",
+        "id": "paper_67",
         "type": "paper-conference",
-        "title": "Advisable Learning for Self-Driving Vehicles by Internalizing Observation-to-Action Rules",
+        "title": "Selfreg: Self-supervised contrastive regularization for domain generalization",
+        "container-title": "ICCV 2021",
+        "URL": "https://openaccess.thecvf.com/content/ICCV2021/html/Kim_SelfReg_Self-Supervised_Contrastive_Regularization_for_Domain_Generalization_ICCV_2021_paper.html",
+        "author": [
+            {
+                "family": "Kim",
+                "given": "Daehee"
+            },
+            {
+                "family": "Park",
+                "given": "Seunghyun"
+            },
+            {
+                "family": "Kim",
+                "given": "Jinkyu"
+            },
+            {
+                "family": "Lee",
+                "given": "Jaekoo"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2021"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_68",
+        "type": "paper-conference",
+        "title": "Toward Spatially Unbiased Generative Models",
+        "container-title": "ICCV 2021",
+        "URL": "https://openaccess.thecvf.com/content/ICCV2021/papers/Choi_Toward_Spatially_Unbiased_Generative_Models_ICCV_2021_paper.pdf",
+        "author": [
+            {
+                "family": "Choi",
+                "given": "Jooyoung"
+            },
+            {
+                "family": "Lee",
+                "given": "Jungbeom"
+            },
+            {
+                "family": "Jeong",
+                "given": "Yonghyun"
+            },
+            {
+                "family": "Yoon",
+                "given": "Sungroh"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2021"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_69",
+        "type": "paper-conference",
+        "title": "Toward explainable and advisable model for self‐driving cars",
+        "container-title": "Applied AI Letters 2021",
+        "URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/ail2.56",
+        "author": [
+            {
+                "family": "Kim",
+                "given": "Jinkyu"
+            },
+            {
+                "family": "Rohrbach",
+                "given": "Anna"
+            },
+            {
+                "family": "Akata",
+                "given": "Zeynep"
+            },
+            {
+                "family": "Moon",
+                "given": "Suhong"
+            },
+            {
+                "family": "Misu",
+                "given": "Teruhisa"
+            },
+            {
+                "family": "Chen",
+                "given": "Yi-Ting"
+            },
+            {
+                "family": "Darrell",
+                "given": "Trevor"
+            },
+            {
+                "family": "Canny",
+                "given": "John"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2021"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_70",
+        "type": "paper-conference",
+        "title": "Towards an Interpretable Deep Driving Network by Attentional Bottleneck",
+        "container-title": "IEEE R&A Letters 2021",
+        "URL": "https://ieeexplore.ieee.org/abstract/document/9483668",
+        "author": [
+            {
+                "family": "Kim",
+                "given": "Jinkyu"
+            },
+            {
+                "family": "Bansal",
+                "given": "Mayank"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2021"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_71",
+        "type": "paper-conference",
+        "title": "Advisable learning for self-driving vehicles by internalizing observation-to-action rules",
         "container-title": "CVPR 2020",
-        "URL": "https://openaccess.thecvf.com/",
+        "URL": "https://openaccess.thecvf.com/content_CVPR_2020/html/Kim_Advisable_Learning_for_Self-Driving_Vehicles_by_Internalizing_Observation-to-Action_Rules_CVPR_2020_paper.html",
         "author": [
             {
                 "family": "Kim",
@@ -1876,31 +3166,19 @@
         }
     },
     {
-        "id": "paper_41",
+        "id": "paper_72",
         "type": "paper-conference",
-        "title": "Frame-to-Frame Aggregation of Active Regions in Web Videos for Weakly Supervised Semantic Segmentation",
-        "container-title": "ICCV 2019",
-        "URL": "https://arxiv.org/abs/1908.04501",
+        "title": "Attentional bottleneck: Towards an interpretable deep driving network",
+        "container-title": "CVPR 2020",
+        "URL": "http://openaccess.thecvf.com/content_CVPRW_2020/html/w20/Kim_Attentional_Bottleneck_Towards_an_Interpretable_Deep_Driving_Network_CVPRW_2020_paper.html",
         "author": [
             {
-                "family": "Lee",
-                "given": "Jungbeom"
-            },
-            {
                 "family": "Kim",
-                "given": "Eunji"
+                "given": "Jinkyu"
             },
             {
-                "family": "Lee",
-                "given": "Sungmin"
-            },
-            {
-                "family": "Lee",
-                "given": "Jangho"
-            },
-            {
-                "family": "Yoon",
-                "given": "Sungroh"
+                "family": "Bansal",
+                "given": "Mayank"
             }
         ],
         "page": "",
@@ -1912,17 +3190,59 @@
         "issued": {
             "date-parts": [
                 [
-                    "2019"
+                    "2020"
                 ]
             ]
         }
     },
     {
-        "id": "paper_42",
+        "id": "paper_73",
+        "type": "paper-conference",
+        "title": "Periphery-fovea multi-resolution driving model guided by human attention",
+        "container-title": "WACV 2020",
+        "URL": "https://openaccess.thecvf.com/content_WACV_2020/html/Xia_Periphery-Fovea_Multi-Resolution_Driving_Model_Guided_by_Human_Attention_WACV_2020_paper.html",
+        "author": [
+            {
+                "family": "Xia",
+                "given": "Ye"
+            },
+            {
+                "family": "Kim",
+                "given": "Jinkyu"
+            },
+            {
+                "family": "Canny",
+                "given": "John"
+            },
+            {
+                "family": "Zipser",
+                "given": "Karl"
+            },
+            {
+                "family": "Whitney",
+                "given": "David"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2020"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_74",
         "type": "paper-conference",
         "title": "FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference",
         "container-title": "CVPR 2019",
-        "URL": "https://arxiv.org/abs/1902.10421",
+        "URL": "https://openaccess.thecvf.com/content_CVPR_2019/papers/Lee_FickleNet_Weakly_and_Semi-Supervised_Semantic_Image_Segmentation_Using_Stochastic_Inference_CVPR_2019_paper.pdf",
         "author": [
             {
                 "family": "Lee",
@@ -1960,11 +3280,53 @@
         }
     },
     {
-        "id": "paper_43",
+        "id": "paper_75",
         "type": "paper-conference",
-        "title": "Grounding Human-to-Vehicle Advice for Self-driving Vehicles",
+        "title": "Frame-to-Frame Aggregation of Active Regions in Web Videos for Weakly Supervised Semantic Segmentation",
+        "container-title": "ICCV 2019",
+        "URL": "https://openaccess.thecvf.com/content_ICCV_2019/papers/Lee_Frame-to-Frame_Aggregation_of_Active_Regions_in_Web_Videos_for_Weakly_ICCV_2019_paper.pdf",
+        "author": [
+            {
+                "family": "Lee",
+                "given": "Jungbeom"
+            },
+            {
+                "family": "Kim",
+                "given": "Eunji"
+            },
+            {
+                "family": "Lee",
+                "given": "Sungmin"
+            },
+            {
+                "family": "Lee",
+                "given": "Jangho"
+            },
+            {
+                "family": "Yoon",
+                "given": "Sungroh"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2019"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_76",
+        "type": "paper-conference",
+        "title": "Grounding human-to-vehicle advice for self-driving vehicles",
         "container-title": "CVPR 2019",
-        "URL": "https://arxiv.org/abs/1911.06978",
+        "URL": "http://openaccess.thecvf.com/content_CVPR_2019/html/Kim_Grounding_Human-To-Vehicle_Advice_for_Self-Driving_Vehicles_CVPR_2019_paper.html",
         "author": [
             {
                 "family": "Kim",
@@ -2002,11 +3364,11 @@
         }
     },
     {
-        "id": "paper_44",
+        "id": "paper_77",
         "type": "paper-conference",
         "title": "Msnet: Mutual suppression network for disentangled video representations",
-        "container-title": "BMVC 2019",
-        "URL": "https://arxiv.org/abs/1804.04810",
+        "container-title": "BMVC 2019 (Oral)",
+        "URL": "https://arxiv.org/pdf/1804.04810",
         "author": [
             {
                 "family": "Lee",
@@ -2040,11 +3402,125 @@
         }
     },
     {
-        "id": "paper_45",
+        "id": "paper_78",
         "type": "paper-conference",
-        "title": "Textual Explanations for Self-Driving Vehicles",
+        "title": "Deep traffic light detection for self-driving cars from a large-scale dataset",
+        "container-title": "ITSC 2018",
+        "URL": "https://ieeexplore.ieee.org/abstract/document/8569575",
+        "author": [
+            {
+                "family": "Kim",
+                "given": "Jinkyu"
+            },
+            {
+                "family": "Lee",
+                "given": "Jiyoon"
+            },
+            {
+                "family": "Lee",
+                "given": "Jaekoo"
+            },
+            {
+                "family": "Canny",
+                "given": "John"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2018"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_79",
+        "type": "paper-conference",
+        "title": "Explainable deep driving by visualizing causal attention",
+        "container-title": "Explainable and Interpretable Models in CV&ML 2018",
+        "URL": "https://link.springer.com/chapter/10.1007/978-3-319-98131-4_8",
+        "author": [
+            {
+                "family": "Kim",
+                "given": "Jinkyu"
+            },
+            {
+                "family": "Canny",
+                "given": "John"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2018"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_80",
+        "type": "paper-conference",
+        "title": "Predicting driver attention in critical situations",
+        "container-title": "ACCV 2018",
+        "URL": "https://arxiv.org/abs/1711.06406",
+        "author": [
+            {
+                "family": "Xia",
+                "given": "Ye"
+            },
+            {
+                "family": "Zhang",
+                "given": "Danqing"
+            },
+            {
+                "family": "Kim",
+                "given": "Jinkyu"
+            },
+            {
+                "family": "Nakayama",
+                "given": "Ken"
+            },
+            {
+                "family": "Zipser",
+                "given": "Karl"
+            },
+            {
+                "family": "Whitney",
+                "given": "David"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2018"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_81",
+        "type": "paper-conference",
+        "title": "Textual explanations for self-driving vehicles",
         "container-title": "ECCV 2018",
-        "URL": "https://arxiv.org/abs/1807.11546",
+        "URL": "https://openaccess.thecvf.com/content_ECCV_2018/html/Jinkyu_Kim_Textual_Explanations_for_ECCV_2018_paper.html",
         "author": [
             {
                 "family": "Kim",
@@ -2082,49 +3558,11 @@
         }
     },
     {
-        "id": "paper_46",
+        "id": "paper_82",
         "type": "paper-conference",
-        "title": "Deep traffic light detection for self-driving cars from a large-scale dataset",
-        "container-title": "ITSC 2018",
-        "URL": "https://ieeexplore.ieee.org/",
-        "author": [
-            {
-                "family": "Kim",
-                "given": "Jinkyu"
-            },
-            {
-                "family": "Cho",
-                "given": "Hyunggi"
-            },
-            {
-                "family": "Hwangbo",
-                "given": "Myung"
-            },
-            {
-                "family": "Kwon",
-                "given": "Paul Youngwook"
-            }
-        ],
-        "page": "",
-        "volume": "",
-        "issue": "",
-        "source": "",
-        "abstract": "",
-        "DOI": "",
-        "issued": {
-            "date-parts": [
-                [
-                    "2018"
-                ]
-            ]
-        }
-    },
-    {
-        "id": "paper_47",
-        "type": "paper-conference",
-        "title": "Interpretable Learning for Self-driving Cars by Visualizing Causal Attention",
+        "title": "Interpretable learning for self-driving cars by visualizing causal attention",
         "container-title": "ICCV 2017",
-        "URL": "https://arxiv.org/abs/1703.10631",
+        "URL": "https://openaccess.thecvf.com/content_iccv_2017/html/Kim_Interpretable_Learning_for_ICCV_2017_paper.html",
         "author": [
             {
                 "family": "Kim",
