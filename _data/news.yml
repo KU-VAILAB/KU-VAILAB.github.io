@@ -1,4 +1,7 @@
 - date: 12/02/26
+  title: "Our lab was awarded a grant through the Excellent Young Researcher Program, Type B (우수신진연구 유형 B)"
+  
+- date: 12/02/26
   title: "Two papers were accepted at CVPR 2026, and one paper was accepted at CVPR 2026 Findings"
   
 - date: 12/02/26
@@ -6,9 +9,6 @@
 
 - date: 11/02/26
   title: "A paper on fine-tuning text-to-image generative model was accepted at WACV 2026"
-
-- date: 10/02/26
-  title: "A paper on subject-driven text-to-image generative model was posted on arXiv"
 
 - date: 09/02/26
   title: "A paper on vision-language model was accepted at ICCV 2025"
