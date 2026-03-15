@@ -6,10 +6,11 @@ image: jungbeom_lee.jpeg
 role: Assistant Professor, CSE, Korea University
 permalink: 'team/jungbeom_lee'
 social:
+    email: jbeomlee@korea.ac.kr
     # twitter: https://twitter.com/
     # linkedin: https://www.linkedin.com/
-    google-scholar: https://scholar.google.fr/
-    github: https://github.com/
+    google-scholar: https://scholar.google.com/citations?user=6qTcgH0AAAAJ
+    # github: https://github.com/
     # website:
     # orcid: https://orcid.org/
     # research-gate: https://www.researchgate.net/

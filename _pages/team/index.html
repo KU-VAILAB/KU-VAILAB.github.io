@@ -24,7 +24,18 @@ permalink: /team/
         <div class="col-md-6">
             <div class="card-body">
             <h3 class="card-title" style="margin-top: 0">{{ member.title }}</h3>
-            <p class="card-text">{{ member.role }}</p>
+            <p class="card-text" style="margin-bottom: 4px;">
+                {{ member.role }}
+                {% if member.social.email %}
+                <br>E-mail: <a href="mailto:{{ member.social.email }}" style="color: inherit">{{ member.social.email }}</a></br>
+                {% endif %}
+            </p>
+            {% if member.social.google-scholar %}
+            <div style="margin-top: 8px;">
+                <a href="{{ member.social.google-scholar }}" target="_blank">Google Scholar</a>
+            </div>
+            {% endif %}
+
             {% if member.education %}
             <div class="card-text" style="margin-top: 24px">
                 <h4 class="card-title">Education</h4>

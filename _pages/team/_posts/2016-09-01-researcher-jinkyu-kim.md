@@ -6,10 +6,11 @@ image: jinkyu_kim.png
 role: Associate Professor, CSE, Korea University (On Leave)
 permalink: 'team/jinkyu_kim'
 social:
+    email: jinkyukim@korea.ac.kr
     # twitter: https://twitter.com/
     # linkedin: https://www.linkedin.com/
-    google-scholar: https://scholar.google.fr/
-    github: https://github.com/
+    google-scholar: https://scholar.google.com/citations?user=-x3wvW8AAAAJ
+    # github: https://github.com/
     # website:
     # orcid: https://orcid.org/
     # research-gate: https://www.researchgate.net/
