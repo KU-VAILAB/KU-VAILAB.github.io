@@ -2,6 +2,60 @@
     {
         "id": "paper_1",
         "type": "paper-conference",
+        "title": "AxisGuide: Grounding Robot Action Coordinate System in RGB Observations for Robust Visuomotor Manipulation",
+        "container-title": "RSS 2026",
+        "URL": "",
+        "author": [
+            {
+                "family": "Jang",
+                "given": "Jiyun"
+            },
+            {
+                "family": "Sung",
+                "given": "Yujin"
+            },
+            {
+                "family": "Joung",
+                "given": "Woosung"
+            },
+            {
+                "family": "Chae",
+                "given": "Daewon"
+            },
+            {
+                "family": "Lee",
+                "given": "Sangwon"
+            },
+            {
+                "family": "Kim",
+                "given": "Sohwi"
+            },
+            {
+                "family": "Kim†",
+                "given": "Jinkyu"
+            },
+            {
+                "family": "Lee†",
+                "given": "Jungbeom"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2026"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_1",
+        "type": "paper-conference",
         "title": "FlowFixer: Towards Detail-Preserving Subject-Driven Generation",
         "container-title": "CVPR 2026",
         "URL": "https://arxiv.org/abs/2602.21402",
