@@ -145,6 +145,52 @@
     {
         "id": "paper_1",
         "type": "paper-conference",
+        "title": "HyperUn: Controlling Uncertainty in Hyperbolic Space for Machine Unlearning",
+        "container-title": "ICPR 2026",
+        "URL": "",
+        "author": [
+            {
+                "family": "Jung*",
+                "given": "Inseo"
+            },
+            {
+                "family": "Seo*",
+                "given": "Dabin"
+            },
+            {
+                "family": "Baek",
+                "given": "Sukyung"
+            },
+            {
+                "family": "Jung",
+                "given": "Jaeheun"
+            },
+            {
+                "family": "Kim",
+                "given": "Donghun"
+            },
+            {
+                "family": "Kim",
+                "given": "Jinkyu"
+            },
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2026"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_1",
+        "type": "paper-conference",
         "title": "FlowFixer: Towards Detail-Preserving Subject-Driven Generation",
         "container-title": "CVPR 2026",
         "URL": "https://arxiv.org/abs/2602.21402",
