@@ -2,6 +2,95 @@
     {
         "id": "paper_1",
         "type": "paper-conference",
+        "title": "The Truth Stays in the Family: Enhancing Contextual Truthfulness via Inherited Heads in Model Lineages",
+        "container-title": "ICML 2026",
+        "URL": "",
+        "author": [
+            {
+                "family": "Choi",
+                "given": "Miso"
+            },
+            {
+                "family": "Choi",
+                "given": "Seonga"
+            },
+            {
+                "family": "Kwon",
+                "given": "Mincheol"
+            },
+            {
+                "family": "Joung",
+                "given": "Woosung"
+            },
+            {
+                "family": "Kim†",
+                "given": "Jinkyu"
+            },
+            {
+                "family": "Lee†",
+                "given": "Jungbeom"
+            }
+
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2026"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_1",
+        "type": "paper-conference",
+        "title": "Diagnosing and Correcting Concept Omission in Multimodal Diffusion Transformers",
+        "container-title": "ICML 2026",
+        "URL": "",
+        "author": [
+            {
+                "family": "Baek",
+                "given": "Kanghyun"
+            },
+            {
+                "family": "Lew",
+                "given": "Jaihyun"
+            },
+            {
+                "family": "Shin",
+                "given": "Chaehun"
+            },
+            {
+                "family": "Lee†",
+                "given": "Jungbeom"
+            },
+            {
+                "family": "Yoon†",
+                "given": "Sungroh"
+            },
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2026"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_1",
+        "type": "paper-conference",
         "title": "AxisGuide: Grounding Robot Action Coordinate System in RGB Observations for Robust Visuomotor Manipulation",
         "container-title": "RSS 2026",
         "URL": "",
