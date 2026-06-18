@@ -2,6 +2,102 @@
     {
         "id": "paper_1",
         "type": "paper-conference",
+        "title": "SpatiO: Adaptive Test-Time Orchestration of Vision-Language Agents for Spatial Reasoning",
+        "container-title": "ECCV 2026",
+        "URL": "",
+        "author": [
+            {
+                "family": "Hwang",
+                "given": "Chan Yeong"
+            },
+            {
+                "family": "Choi",
+                "given": "Miso"
+            },
+            {
+                "family": "On",
+                "given": "Sanghyun"
+            },
+            {
+                "family": "Kim",
+                "given": "Jinkyu"
+            },
+            {
+                "family": "Lee",
+                "given": "Jungbeom"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2026"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_1",
+        "type": "paper-conference",
+        "title": "Streaming Dense Voxel Representations for 3D Occupancy Prediction",
+        "container-title": "ECCV 2026",
+        "URL": "",
+        "author": [
+            {
+                "family": "Moon",
+                "given": "Seokha"
+            },
+            {
+                "family": "Baek",
+                "given": "Janghyun"
+            },
+            {
+                "family": "Jeong",
+                "given": "Yujin"
+            },
+            {
+                "family": "Chae",
+                "given": "Daewon"
+            },
+            {
+                "family": "Kim",
+                "given": "Giseop"
+            },
+            {
+                "family": "Lee",
+                "given": "Jungbeom"
+            },
+            {
+                "family": "Kim",
+                "given": "Jinkyu"
+            },
+            {
+                "family": "Choi",
+                "given": "Sunwook"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2026"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_1",
+        "type": "paper-conference",
         "title": "The Truth Stays in the Family: Enhancing Contextual Truthfulness via Inherited Heads in Model Lineages",
         "container-title": "ICML 2026",
         "URL": "",
