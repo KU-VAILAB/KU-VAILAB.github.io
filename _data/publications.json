@@ -4,7 +4,7 @@
         "type": "paper-conference",
         "title": "SpatiO: Adaptive Test-Time Orchestration of Vision-Language Agents for Spatial Reasoning",
         "container-title": "ECCV 2026",
-        "URL": "",
+        "URL": "https://arxiv.org/abs/2604.21190",
         "author": [
             {
                 "family": "Hwang",
@@ -46,7 +46,7 @@
         "type": "paper-conference",
         "title": "Streaming Dense Voxel Representations for 3D Occupancy Prediction",
         "container-title": "ECCV 2026",
-        "URL": "",
+        "URL": "https://arxiv.org/abs/2503.22087",
         "author": [
             {
                 "family": "Moon",
@@ -100,7 +100,7 @@
         "type": "paper-conference",
         "title": "The Truth Stays in the Family: Enhancing Contextual Truthfulness via Inherited Heads in Model Lineages",
         "container-title": "ICML 2026",
-        "URL": "",
+        "URL": "https://arxiv.org/abs/2606.15821",
         "author": [
             {
                 "family": "Choi",
@@ -189,7 +189,7 @@
         "type": "paper-conference",
         "title": "AxisGuide: Grounding Robot Action Coordinate System in RGB Observations for Robust Visuomotor Manipulation",
         "container-title": "RSS 2026",
-        "URL": "",
+        "URL": "https://arxiv.org/abs/2606.06761",
         "author": [
             {
                 "family": "Jang",
