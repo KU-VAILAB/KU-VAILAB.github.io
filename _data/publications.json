@@ -556,6 +556,90 @@
             ]
         }
     },
+        {
+        "id": "paper_1",
+        "type": "paper-conference",
+        "title": "Causality-Aware End-to-End Autonomous Driving via Ego-Centric Joint Scene Modeling",
+        "container-title": "Preprint (arXiv:2605.13646)",
+        "URL": "https://arxiv.org/abs/2605.13646",
+        "author": [
+            {
+                "family": "Moon",
+                "given": "Seokha"
+            },
+            {
+                "family": "Lee",
+                "given": "Minseung"
+            },
+            {
+                "family": "Joon",
+                "given": "Seo"
+            },
+            {
+                "family": "Kim",
+                "given": "Jinkyu"
+            },
+            {
+                "family": "Lee",
+                "given": "Jungbeom"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2026"
+                ]
+            ]
+        }
+    },
+        {
+        "id": "paper_1",
+        "type": "paper-conference",
+        "title": "SODE: Analyzing Social Dynamics in LLM Agents",
+        "container-title": "Preprint (arXiv:2605.23949)",
+        "URL": "https://arxiv.org/abs/2605.23949",
+        "author": [
+            {
+                "family": "Jung",
+                "given": "Inseo"
+            },
+            {
+                "family": "Oh",
+                "given": "Yoonseok"
+            },
+            {
+                "family": "Back",
+                "given": "Kyungryul"
+            },
+            {
+                "family": "Kim",
+                "given": "Jinkyu"
+            },
+            {
+                "family": "Lee",
+                "given": "Jungbeom"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2026"
+                ]
+            ]
+        }
+    },
     {
         "id": "paper_7",
         "type": "paper-conference",
