@@ -1,6 +1,6 @@
 ---
 layout: member
-category: intern
+category: student
 name: Woosung Joung
 title: Woosung Joung
 email: mung3477@korea.ac.kr
