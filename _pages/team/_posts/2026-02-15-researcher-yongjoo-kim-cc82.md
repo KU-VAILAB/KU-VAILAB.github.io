@@ -1,6 +1,6 @@
 ---
 layout: member
-category: intern
+category: student
 name: Yongjoo Kim
 title: Yongjoo Kim
 email: sd081104@korea.ac.kr
