@@ -4,8 +4,8 @@ category: intern
 name: Yongjoo Kim
 title: Yongjoo Kim
 email: sd081104@korea.ac.kr
-image: https://drive.google.com/thumbnail?id=1Ozx3dOSKpY8QD65BiijR6OTmpcSLUO2L&sz=w1000
-role: Intern
+image: https://drive.google.com/file/d/1BD5Qyl0FfG12KFQUpcnZE7JlEzKrt1O7/view?usp=sharing
+role: Master
 affiliation: Korea University
 major: CSE
 school: Korea University
