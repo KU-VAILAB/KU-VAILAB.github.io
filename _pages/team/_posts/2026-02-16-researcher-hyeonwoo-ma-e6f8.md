@@ -5,7 +5,6 @@ name: Hyeonwoo Ma
 title: Hyeonwoo Ma
 email: ma0412mam@korea.ac.kr
 image: #VALUE!
-role: Intern
 affiliation: Korea University
 major: CSE
 school: Korea University
