@@ -1,6 +1,5 @@
 ---
 layout: member
-category: student
 name: Milim Kim
 title: Milim Kim
 email: mimlmim21@korea.ac.kr
