@@ -2,6 +2,60 @@
     {
         "id": "paper_1",
         "type": "paper-conference",
+        "title": "SAGE: Semantic Attribute Graphs for Multi-Entity Visual Retrieval",
+        "container-title": "EMNLP 2026 (Main)",
+        "URL": "",
+        "author": [
+            {
+                "family": "Kim",
+                "given": "Yongjoo"
+            },
+            {
+                "family": "Kwon",
+                "given": "Mincheol"
+            },
+            {
+                "family": "Choi",
+                "given": "Seonga"
+            },
+            {
+                "family": "Lee",
+                "given": "Minseung"
+            },
+            {
+                "family": "Oh",
+                "given": "Kyeong-Jin"
+            },
+            {
+                "family": "Lee",
+                "given": "Hyunyoung"
+            },
+            {
+                "family": "Choi",
+                "given": "Yunsu"
+            },
+            {
+                "family": "Lee",
+                "given": "Jungbeom"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2026"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_1",
+        "type": "paper-conference",
         "title": "SpatiO: Adaptive Test-Time Orchestration of Vision-Language Agents for Spatial Reasoning",
         "container-title": "ECCV 2026",
         "URL": "https://arxiv.org/abs/2604.21190",
