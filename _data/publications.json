@@ -4,7 +4,7 @@
         "type": "paper-conference",
         "title": "Negative-Guided Subject Fidelity Optimization for Zero-Shot Subject-Driven Generation",
         "container-title": "ACCV 2026",
-        "URL": "",
+        "URL": "https://arxiv.org/abs/2506.03621",
         "author": [
             {
                 "family": "Shin*",
@@ -46,7 +46,7 @@
         "type": "paper-conference",
         "title": "SAGE: Semantic Attribute Graphs for Multi-Entity Visual Retrieval",
         "container-title": "EMNLP 2026 (Main)",
-        "URL": "",
+        "URL": "https://arxiv.org/abs/2609.04255",
         "author": [
             {
                 "family": "Kim*",
@@ -339,7 +339,7 @@
         "type": "paper-conference",
         "title": "HyperUn: Controlling Uncertainty in Hyperbolic Space for Machine Unlearning",
         "container-title": "ICPR 2026",
-        "URL": "",
+        "URL": "https://dl.acm.org/doi/abs/10.1007/978-3-032-31438-3_29",
         "author": [
             {
                 "family": "Jung*",
@@ -427,7 +427,7 @@
         "type": "paper-conference",
         "title": "Focus, Don’t Prune: Identifying Instruction-Relevant Regions for Information-Rich Image Understanding",
         "container-title": "CVPR 2026",
-        "URL": "",
+        "URL": "https://arxiv.org/abs/2603.22815",
         "author": [
             {
                 "family": "Kwon",
@@ -590,136 +590,6 @@
             {
                 "family": "Yoon†",
                 "given": "Sungroh"
-            }
-        ],
-        "page": "",
-        "volume": "",
-        "issue": "",
-        "source": "",
-        "abstract": "",
-        "DOI": "",
-        "issued": {
-            "date-parts": [
-                [
-                    "2026"
-                ]
-            ]
-        }
-    },
-    {
-        "id": "paper_6",
-        "type": "paper-conference",
-        "title": "Towards Failure-Resilient Lifelong Learning Agents through Scene Graph-Guided Proactive Replanning",
-        "container-title": "AAMAS 2026 (Oral)",
-        "URL": "https://arxiv.org/abs/2508.11286",
-        "author": [
-            {
-                "family": "Yu",
-                "given": "Che Rin"
-            },
-            {
-                "family": "Chae",
-                "given": "Daewon"
-            },
-            {
-                "family": "Seo",
-                "given": "Dabin"
-            },
-            {
-                "family": "Lee",
-                "given": "Sangwon"
-            },
-            {
-                "family": "Im",
-                "given": "Hyeongwoo"
-            },
-            {
-                "family": "Kim",
-                "given": "Jinkyu"
-            }
-        ],
-        "page": "",
-        "volume": "",
-        "issue": "",
-        "source": "",
-        "abstract": "",
-        "DOI": "",
-        "issued": {
-            "date-parts": [
-                [
-                    "2026"
-                ]
-            ]
-        }
-    },
-        {
-        "id": "paper_1",
-        "type": "paper-conference",
-        "title": "Causality-Aware End-to-End Autonomous Driving via Ego-Centric Joint Scene Modeling",
-        "container-title": "Preprint (arXiv:2605.13646)",
-        "URL": "https://arxiv.org/abs/2605.13646",
-        "author": [
-            {
-                "family": "Moon",
-                "given": "Seokha"
-            },
-            {
-                "family": "Lee",
-                "given": "Minseung"
-            },
-            {
-                "family": "Joon",
-                "given": "Seo"
-            },
-            {
-                "family": "Kim",
-                "given": "Jinkyu"
-            },
-            {
-                "family": "Lee",
-                "given": "Jungbeom"
-            }
-        ],
-        "page": "",
-        "volume": "",
-        "issue": "",
-        "source": "",
-        "abstract": "",
-        "DOI": "",
-        "issued": {
-            "date-parts": [
-                [
-                    "2026"
-                ]
-            ]
-        }
-    },
-        {
-        "id": "paper_1",
-        "type": "paper-conference",
-        "title": "SODE: Analyzing Social Dynamics in LLM Agents",
-        "container-title": "Preprint (arXiv:2605.23949)",
-        "URL": "https://arxiv.org/abs/2605.23949",
-        "author": [
-            {
-                "family": "Jung",
-                "given": "Inseo"
-            },
-            {
-                "family": "Oh",
-                "given": "Yoonseok"
-            },
-            {
-                "family": "Back",
-                "given": "Kyungryul"
-            },
-            {
-                "family": "Kim",
-                "given": "Jinkyu"
-            },
-            {
-                "family": "Lee",
-                "given": "Jungbeom"
             }
         ],
         "page": "",
