@@ -2,6 +2,48 @@
     {
         "id": "paper_1",
         "type": "paper-conference",
+        "title": "Negative-Guided Subject Fidelity Optimization for Zero-Shot Subject-Driven Generation",
+        "container-title": "ACCV 2026",
+        "URL": "",
+        "author": [
+            {
+                "family": "Shin*",
+                "given": "Chaehun"
+            },
+            {
+                "family": "Choi*",
+                "given": "Jooyoung"
+            },
+            {
+                "family": "Barthelemy",
+                "given": "Johan"
+            },
+            {
+                "family": "Lee†",
+                "given": "Jungbeom"
+            }
+            {
+                "family": "Yoon†",
+                "given": "Sungroh"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2026"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_1",
+        "type": "paper-conference",
         "title": "SAGE: Semantic Attribute Graphs for Multi-Entity Visual Retrieval",
         "container-title": "EMNLP 2026 (Main)",
         "URL": "",
