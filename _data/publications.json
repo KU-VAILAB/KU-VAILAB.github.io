@@ -2,6 +2,102 @@
     {
         "id": "paper_1",
         "type": "paper-conference",
+        "title": "V-LUMEN: Visual Lookup Memory for Embedding Scaling in Vision-Language Models",
+        "container-title": "NeurIPS 2026",
+        "URL": "",
+        "author": [
+            {
+                "family": "Choi",
+                "given": "Miso"
+            },
+            {
+                "family": "Kim",
+                "given": "Daekeun"
+            },
+            {
+                "family": "Kim",
+                "given": "Eunji"
+            },
+            {
+                "family": "Lee",
+                "given": "Jungbeom"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2026"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_1",
+        "type": "paper-conference",
+        "title": "Heads That Write, Not Just Point: Image Retrieval Heads in Vision-Language Models",
+        "container-title": "NeurIPS 2026",
+        "URL": "",
+        "author": [
+            {
+                "family": "Park",
+                "given": "Junsung"
+            },
+            {
+                "family": "Yu",
+                "given": "Sangwon"
+            },
+            {
+                "family": "Kang",
+                "given": "Donghun"
+            },
+            {
+                "family": "Oh",
+                "given": "Yeongtak"
+            },
+            {
+                "family": "Jeong",
+                "given": "Jaewon"
+            },
+            {
+                "family": "Yoo",
+                "given": "Gyeongtae"
+            },
+            {
+                "family": "Moon",
+                "given": "Han Cheol"
+            },
+            {
+                "family": "Lee†",
+                "given": "Jungbeom"
+            },
+            {
+                "family": "Yoon†",
+                "given": "Sungroh"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2026"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_1",
+        "type": "paper-conference",
         "title": "Negative-Guided Subject Fidelity Optimization for Zero-Shot Subject-Driven Generation",
         "container-title": "ACCV 2026",
         "URL": "https://arxiv.org/abs/2506.03621",
