@@ -703,6 +703,52 @@
         }
     },
     {
+        "id": "paper_6",
+        "type": "paper-conference",
+        "title": "Towards Failure-Resilient Lifelong Learning Agents through Scene Graph-Guided Proactive Replanning",
+        "container-title": "AAMAS 2026 (Oral)",
+        "URL": "https://arxiv.org/abs/2508.11286",
+        "author": [
+            {
+                "family": "Yu",
+                "given": "Che Rin"
+            },
+            {
+                "family": "Chae",
+                "given": "Daewon"
+            },
+            {
+                "family": "Seo",
+                "given": "Dabin"
+            },
+            {
+                "family": "Lee",
+                "given": "Sangwon"
+            },
+            {
+                "family": "Im",
+                "given": "Hyeongwoo"
+            },
+            {
+                "family": "Kim",
+                "given": "Jinkyu"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2026"
+                ]
+            ]
+        }
+    },
+    {
         "id": "paper_7",
         "type": "paper-conference",
         "title": "3D Occupancy Prediction with Low-Resolution Queries via Prototype-aware View Transformation",
