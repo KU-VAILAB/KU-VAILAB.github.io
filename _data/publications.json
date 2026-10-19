@@ -2,6 +2,40 @@
     {
         "id": "paper_1",
         "type": "paper-conference",
+        "title": "Joint Heavy-Tailed Modeling for Optical Flow: Robust Statistics Revisited",
+        "container-title": "NeurIPS 2026",
+        "URL": "",
+        "author": [
+            {
+                "family": "Kim",
+                "given": "Taehun"
+            },
+            {
+                "family": "Lee",
+                "given": "Jung Chan"
+            },
+            {
+                "family": "Lee",
+                "given": "Jungbeom"
+            }
+        ],
+        "page": "",
+        "volume": "",
+        "issue": "",
+        "source": "",
+        "abstract": "",
+        "DOI": "",
+        "issued": {
+            "date-parts": [
+                [
+                    "2027"
+                ]
+            ]
+        }
+    },
+    {
+        "id": "paper_1",
+        "type": "paper-conference",
         "title": "V-LUMEN: Visual Lookup Memory for Embedding Scaling in Vision-Language Models",
         "container-title": "NeurIPS 2026",
         "URL": "",
