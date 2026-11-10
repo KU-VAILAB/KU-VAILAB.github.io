@@ -38,7 +38,7 @@
         "type": "paper-conference",
         "title": "V-LUMEN: Visual Lookup Memory for Embedding Scaling in Vision-Language Models",
         "container-title": "NeurIPS 2026",
-        "URL": "",
+        "URL": "https://arxiv.org/abs/2610.37019",
         "author": [
             {
                 "family": "Choi*",
@@ -76,7 +76,7 @@
         "type": "paper-conference",
         "title": "Heads That Write, Not Just Point: Image Retrieval Heads in Vision-Language Models",
         "container-title": "NeurIPS 2026",
-        "URL": "",
+        "URL": "https://arxiv.org/abs/2611.04903",
         "author": [
             {
                 "family": "Park",
